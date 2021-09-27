@@ -200,10 +200,10 @@ str_village_alt_prosperity_20|Alguns agricultores e seus animais povoam os campo
 str_village_alt_prosperity_40|Os campos e hortas estão sendo bem aproveitados, com os aldeões trabalhando conforme as estações. Tanto as pessoas como os animais parecem bem alimentados e gozam de um aspecto saudável. No entanto, alguns terrenos nas áreas mais remotas estão sem cultivar, e parte das paredes e cercas permanecem sem reparo, o que sugere que ainda não há mão de obra suficiente para todo o trabalho a ser feito.
 str_village_alt_prosperity_60|Os campos e hortas agitam-se de atividade, os sacos cheios de grãos e carne seca vão de um lado a outro, dando testemunho da fertilidade das terras de lavoura e dos pastos desta região.
 str_village_alt_prosperity_80|Os campos e hortas agitam-se de atividade. Os canais de irrigação recém cavados sugerem claramente que os agricultores possuem tempo e energias suficientes para ampliar a superfície cultivável. Enquanto isso, trabalhadores de temporada vêm aqui para ajudar com o trabalho conforme as estações e contribuir para a prosperidade geral da região.
-str_oasis_village_alt_prosperity_0|As tamareiras estão praticamente abandonados, e os canais que os regam encontram-se obstruídos com lama e terra. O punhado de camponeses que você pode ver está claramente malnutrido e exausto. Os animais de tiro há tempos que morreram de fome ou foram devorados, ainda que seus restos nos arredores estejam sendo devorados por alguns chacais do deserto.
+str_oasis_village_alt_prosperity_0|As tamareiras estão praticamente abandonadas, e os canais que os regam encontram-se obstruídos com lama e terra. O punhado de camponeses que você pode ver está claramente malnutrido e exausto. Os animais de tração há tempos que morreram de fome ou foram devorados, ainda que seus restos nos arredores estejam sendo devorados por alguns chacais do deserto.
 str_oasis_village_alt_prosperity_20|Você pode ver só alguns poucos aldeões atendendo as tamareiras, enquanto que em alguns lugares as dunas do deserto parecem estar invadindo vorazmente os jardins. Muitos dos canais de água estão obstruídos com lama e os depósitos se encheram de água.
 str_oasis_village_alt_prosperity_40|Homens e mulheres estão muito ocupados cuidando das tamareiras e subindo nas árvores para colher frutas. Enquanto isso, há saudáveis e fortes animais impulsionando as bombas e moinhos que levam a água para os campos. Alguns dos canais de irrigação e os poços poderiam, no entanto, requerer algumas reparações.
-str_oasis_village_alt_prosperity_60|As tamareiras e hortas agitam-se de atividade. Os agricultores ajudam uns aos outros alegremente desde as copas das árvores, onde cuidam das frutas de temporada. O ranger da madeira das bombas de água, os mugidos dos animais de tiro, e a torrente de água que flui indica claramente que o sistema de irrigações prospera sem contratempos graças ao trabalho dos aldeões.
+str_oasis_village_alt_prosperity_60|As tamareiras e hortas agitam-se de atividade. Os agricultores ajudam uns aos outros alegremente desde as copas das árvores, onde cuidam das frutas de temporada. O ranger da madeira das bombas de água, os mugidos dos animais de tração, e a torrente de água que flui indica claramente que o sistema de irrigações prospera sem contratempos graças ao trabalho dos aldeões.
 str_oasis_village_alt_prosperity_80|As tamareiras agitam-se de atividade, já que os agricultores conseguiram uma abundante colheita nesta temporada para vender no mercado. Homens e mulheres trabalham duro escavando novos poços e canais, para que a irrigação chegue a mais terras.
 str_acres_grain|acres de campos de trigo
 str_acres_orchard|acres de hortas e vinhas
@@ -4990,11 +4990,11 @@ str_we_shall_cut_a_fiery_trail_through_their_richest_lands_to_draw_them_out_to_b
 str_strategy_criticism_rash|Creio que essa estratégia é arriscada, e expõe nossas forças a um perigo desnecessário.
 str_strategy_criticism_cautious|Creio que esta estratégia é muito cautelosa... Veremos como nossas tropas morrerão de tédio antes que alcancemos qualquer êxito.
 str_tavernkeeper_invalid_quest| tinha algum tipo de negócio em marcha, mas sou incapaz de lembrar dos detalhes.
-str_faction_title_male_player|Cavaliere {s0}
-str_faction_title_male_player_village|Barone {s0}
-str_faction_title_male_player_castle|Conte {s0}
-str_faction_title_male_player_town|Duca {s0}
-str_faction_title_male_player_king|Doge {s0}
+str_faction_title_male_player|Cavaleiro {s0}
+str_faction_title_male_player_village|Barão {s0}
+str_faction_title_male_player_castle|Conde {s0}
+str_faction_title_male_player_town|Duque {s0}
+str_faction_title_male_player_king|Rei {s0}
 str_faction_title_male_1|Ritter {s0}
 str_faction_title_male_1_village|Freiherr {s0}
 str_faction_title_male_1_castle|Graf {s0}
@@ -5031,11 +5031,11 @@ str_faction_title_male_7_castle|Conde {s0}
 str_faction_title_male_7_town|Duque {s0}
 str_faction_title_male_7_king|Rei {s0}
 str_faction_title_female_player|Lady {s0}
-str_faction_title_female_player_village|Baronessa {s0}
-str_faction_title_female_player_castle|Contessa {s0}
-str_faction_title_female_player_town|Duchessa {s0}
-str_faction_title_female_player_queen|Dogaressa {s0}
-str_faction_title_female_player_unmarried|Donzella {s0}
+str_faction_title_female_player_village|Baronesa {s0}
+str_faction_title_female_player_castle|Condessa {s0}
+str_faction_title_female_player_town|Duquesa {s0}
+str_faction_title_female_player_queen|Rainha {s0}
+str_faction_title_female_player_unmarried|Donzela {s0}
 str_faction_title_female_1|Frau {s0}
 str_faction_title_female_1_village|Freiin {s0}
 str_faction_title_female_1_castle|Grafin {s0}
@@ -5096,8 +5096,8 @@ str_default_kingdom_name|Reino de {s0}
 str_lord_defects_ordinary|Mudança de lado^^O {s1} renunciou sua lealdade ao {s3}, passando a formar parte do {s2}
 str_lord_defects_player|Mudança de lado^^O {s1} renunciou sua lealdade ao {s3}. Ele foi convencido a unir-se ao seu reino. Você pode ir a sua corte para receber um juramento de vassalagem, se assim desejar.
 str_lord_defects_player_faction|Mudança de lado^^O {s1} renunciou sua lealdade ao {s3}. Ele foi convencido a unir-se ao seu reino. Você pode ir a sua corte para receber um juramento de vassalagem, se assim desejar.
-str_lord_indicted_player_faction|Por ordem do {s6}, o {s4} do {s5} foi acusado de alta traição. O nobre foi despossado de todas as suas propriedades, e teve que fugir para salvar sua vida. Ele deseja unir-se ao seu reino. Você pode se reunir com {reg?ela:ele} em sua corte para receber sua homenagem, se assim desejar.
-str_lord_indicted_dialog_approach|Saudações, {milorde/milady}. Certamente ouviu falar dos maus tratos que tenho recebido da parte do {s10}. Você tem renome como alguém que trata seus {vassalos/vassalas} como deve, e se permitir, seria uma honra para mim render-lhe homenagem como seu humilde juramentado e vassalo.
+str_lord_indicted_player_faction|Por ordem do {s6}, o {s4} do {s5} foi acusado de alta traição. O nobre foi despossado de todas as suas propriedades, e teve que fugir para salvar sua vida. Ele deseja unir-se ao seu reino. Você pode se reunir com {reg4?ela:ele} em sua corte para receber sua homenagem, se assim desejar.
+str_lord_indicted_dialog_approach|Saudações, {milorde/milady}. Certamente ouviu falar dos maus tratos que tenho recebido da parte do {s10}. Você tem renome como alguém que trata seus vassalos como deve, e se permitir, seria uma honra para mim render-lhe homenagem como seu humilde juramentado e vassalo.
 str_lord_indicted_dialog_approach_yes|A honra é minha ao aceitar seu juramento.
 str_lord_indicted_dialog_approach_no|Lamento, mas não preciso de seus serviços.
 str_lord_indicted_dialog_rejected|Sério? Bom, talvez sua reputação não seja tão merecida... Que tenha um bom dia, {milorde/milady}... verei se outro monarca em Calradia é capaz de apreciar melhor meus talentos.
@@ -5470,13 +5470,13 @@ str_dplmc_neither_centralize_nor_decentralized|nem centralizado nem descentraliz
 str_dplmc_little_centralized|um pouco centralizado
 str_dplmc_quite_centralized|bastante centralizado
 str_dplmc_very_centralized|muito centralizado
-str_dplmc_very_plutocratic|muito plutocrático
-str_dplmc_quite_plutocratic|bastante plutocrático
-str_dplmc_little_plutocratic|um pouco plutocrático
-str_dplmc_neither_aristocratic_nor_plutocratic|nem aristocrático nem plutocrático
-str_dplmc_little_aristocratic|um pouco aristocrático
-str_dplmc_quite_aristocratic|bastante aristocrático
-str_dplmc_very_aristocratic|muito aristocrático
+str_dplmc_very_plutocratic|muito plutocrática
+str_dplmc_quite_plutocratic|bastante plutocrática
+str_dplmc_little_plutocratic|um pouco plutocrática
+str_dplmc_neither_aristocratic_nor_plutocratic|nem aristocrática nem plutocrática
+str_dplmc_little_aristocratic|um pouco aristocrática
+str_dplmc_quite_aristocratic|bastante aristocrática
+str_dplmc_very_aristocratic|muito aristocrática*
 str_dplmc_all_free|quase todos livres
 str_dplmc_mostly_free|a maioria livres
 str_dplmc_usually_free|geralmente livres
@@ -5520,7 +5520,7 @@ str_dplmc_fief_exchange_confirm_reg3_denars|Então está resolvido. Aqui estão 
 str_dplmc_your_s11_s10|Seu {s11}, {s10}
 str_dplmc_reg6my_reg7spouse|{reg7?Meu amor:{Meu marido/Minha esposa}}
 str_dplmc_refuse_support_s43_named_s4|Apoiar {s43} como {s4}? Eu acho que não.
-str_dplmc_comment_you_enfiefed_a_commoner_supportive|Eu entendo que você deu {s51} a {s54}. Outros podem achar isso controverso, mas eu acredito que o {s54} será um governante capaz, e que {reg4?ela:ele} não {o/a} deixará para baixo.
+str_dplmc_comment_you_enfiefed_a_commoner_supportive|Eu entendo que você deu {s51} a {s54}. Outros podem achar isso controverso, mas eu acredito que o {s54} será um governante capaz, e que {reg4?ela:ele} não {o/a} decepcionará.
 str_dplmc_sirmadame|{senhor/senhora}
 str_dplmc_sirmadam|{senhor/senhora}
 str_dplmc_my_lordlady|{milorde/milady}
@@ -6099,8 +6099,8 @@ str_faction_relation_plus_40_ns|solidário
 str_faction_relation_plus_50_ns|amigável
 str_faction_relation_plus_60_ns|generoso
 str_faction_relation_plus_70_ns|afetuoso
-str_faction_relation_plus_80_ns|Devoto
-str_faction_relation_plus_90_ns|Leal
+str_faction_relation_plus_80_ns|devoto
+str_faction_relation_plus_90_ns|leal
 str_attribute_str|Força
 str_attribute_agi|Agilidade
 str_attribute_int|Inteligência
@@ -6869,6 +6869,6 @@ str_doghotel_renown_min|Renome mínimo para bônus:
 str_doghotel_config_shortcut_key|Tecla de atalho: U
 str_doghotel_anti_autoblock|Anti bloqueio automático
 str_doghotel_escape_menu_line_1|Nas opções de vídeo: Desligue o HDR e o auto-expore
-str_doghotel_escape_menu_line_2|Manual do Mod: Mapa da Campanha>Notas>Conceitos do jogo 
+str_doghotel_escape_menu_line_2|Manual do Mod: Mapa da Campanha>Diário>Conceitos*
 str_doghotel_incompatible_version|Erro: versão local ({reg0}) incompatível com versão remota ({reg1}) 
 str_doghotel_module_merger_packages_v1|Bots Inteligentes
