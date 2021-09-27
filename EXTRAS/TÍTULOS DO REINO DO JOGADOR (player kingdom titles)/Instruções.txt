@@ -1,0 +1,1 @@
+Copie um arquivo game_strings.csv da pasta de títulos desejados e substitua o game_strings.csv na pasta Bannerpage\languages\pt
