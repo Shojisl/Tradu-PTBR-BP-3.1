@@ -3,7 +3,7 @@
 
 
 Tradução Bannerpage v2.2
-Autor: Eu
+Autor: 
 Base utilizada: tradução do Diplomacy 4.Litdum v0.3 feita por Evandro Neto e Cláudio Vieira.                                    
 Saudações, guerreiro(a)!
 Logo abaixo segue um tutorial de instalação da tradução. 
@@ -11,9 +11,12 @@ Logo abaixo segue um tutorial de instalação da tradução.
 INSTALAÇÃO:
 
 Para instalar a tradução, siga os seguintes procedimentos:
-1) Copie as pastas languages e Modules e cole no diretório do jogo;
+1) Copie as pastas languages Data e Textures e cole no diretório do mod;
 2) Substitua os arquivos existentes quando necessário;
 3) No menu inicial, mude a linguagem do jogo para PORTUGUÊS.
+
+4) ##IMPORTANTE: Utilize o arquivo menus.txt SOMENTE se você estiver jogando a versão 2.2 do mod.
+Este arquivo irá concertar alguns pequenos bugs nas opções de menu in game, nada que prejudique sua gameplay. Para usá-lo, basta colar o arquivo no diretório do mod.##
 
 Agora é só jogar. Divirta-se!
 

@@ -4120,7 +4120,7 @@ dlga_prisoner_chat_menu:prisoner_chat_die1|Ver você me deixa doente! Você.. Mo
 dlga_prisoner_chat_menu:prisoner_chat_rape1|Não suporto mais seus gritos e choros. E percebi que alguns homens estão olhando para você...
 dlga_prisoner_chat_menu:close_window|Volte para a fila, escória!
 dlga_prisoner_chat_release:prisoner_chat_release2|Estou me sentindo generos{o/a} hoje. Vá embora, antes que eu mude de ideia!
-dlga_prisoner_chat_release2:close_window|Oh, obrigado, {senhor/senhora}.  Bênçãos para você!
+dlga_prisoner_chat_release2:close_window|Oh, obrigado, {senhor/senhora}. Bênçãos para você!
 dlga_prisoner_chat_offer:prisoner_chat_reaction|Ouça, escória, você tem uma última chance de se redimir antes que eu o venda aos mercadores de escravos. Abandone todas as suas lealdades anteriores e jure fidelidade a mim, obedeça a todas as minhas ordens ao pé da letra e você será pago, alimentado e equipado. Se não... bem, digamos apenas que a vida de escravo se resume em intermináveis de anos de agonia, desnutrição e espancamentos. Aconselho você a pensar com muito, muito cuidado antes de escolher.
 dlga_prisoner_chat_reaction:prisoner_chat_accept1|Obrigado pela misericórdia, {senhor/senhora}. Juro pelo túmulo de minha mãe que vou servi-l{o/a}, {meu senhor/minha senhora}!
 dlga_prisoner_chat_reaction:prisoner_chat_refuse|Vou mostrar o que acho da sua oferta! (O prisioneiro cospe a seus pés) Ai está. Agora vá embora, não estou interessado.
