@@ -1,4 +1,4 @@
-lockitver|DO NOT DELETE THIS LINE! Tradução PTBR - 2015-2021 - by Cláudio Vieira e Evandro Neto
+lockitver|DO NOT DELETE THIS LINE! Tradução PTBR - 2015-2023 - by Cláudio Vieira e Evandro Neto
 itm_no_item|ITEM INVÁLIDO
 itm_no_item_pl|ITEM INVÁLIDO
 itm_tutorial_spear|Lança
@@ -273,8 +273,6 @@ itm_deer_meat|Carne de Veado
 itm_deer_meat_pl|Carne de Veado
 itm_boar_meat|Carne de Javali
 itm_boar_meat_pl|Carne de Javali
-itm_coat_meat|Salsichas de Veado
-itm_coat_meat_pl|Salsichas de Veado
 itm_coat_2_meat|Carne de Cabra Montanhesa
 itm_coat_2_meat_pl|Carne de Cabra Montanhesa
 itm_wilddonkey_meat|Carne de Iaque
@@ -535,6 +533,8 @@ itm_mount_druzhina_a|Corcel de Batalha com Barda em Escamas Pesada
 itm_mount_druzhina_a_pl|Corcel de Batalha com Barda em Escamas Pesada
 itm_mount_catalon_adalid_a|Catalão de Batalha com Barda
 itm_mount_catalon_adalid_a_pl|Catalão de Batalha com Barda
+itm_condottiero_charger|Cavalo de Guerra Pesado
+itm_condottiero_charger_pl|Cavalo de Guerra Pesado
 itm_dk_charger|Cavalo de Guerra Pesado
 itm_dk_charger_pl|Cavalo de Guerra Pesado
 itm_dk_horned_charger|Cavalo de Guerra Pesado
@@ -1389,6 +1389,8 @@ itm_rhodok_spearman_tunic|Túnica
 itm_rhodok_spearman_tunic_pl|Túnica
 itm_forest_bandit_tunic|Túnica de Couro
 itm_forest_bandit_tunic_pl|Túnica de Couro
+itm_iberian_slinger_a|Jaquetão Acolchoado
+itm_iberian_slinger_a_pl|Jaquetão Acolchoado
 itm_aketon_green|Jaquetão Acolchoado
 itm_aketon_green_pl|Jaquetão Acolchoado
 itm_aketon_rhodok|Jaquetão Acolchoado
@@ -1771,6 +1773,8 @@ itm_scale_armor_player|Armadura em Escamas
 itm_scale_armor_player_pl|Armadura em Escamas
 itm_scale_armor_long|Armadura em Escamas
 itm_scale_armor_long_pl|Armadura em Escamas
+itm_scale_armour_jofurr|Armadura em Escamas c/ Capa de Javali
+itm_scale_armour_jofurr_pl|Armadura em Escamas c/ Capa de Javali
 itm_serbian_lamellar|Armadura Lamelar Pesada
 itm_serbian_lamellar_pl|Armadura Lamelar Pesada
 itm_varangopoulos_armor|Armadura de Placas e Cota de Malha
@@ -2125,8 +2129,8 @@ itm_sallet_open|Bacinete
 itm_sallet_open_pl|Bacinete
 itm_khergit_horseman_helmzz|Elmo Lamelar Pequeno
 itm_khergit_horseman_helmzz_pl|Elmo Lamelar Pequeno
-itm_khergit_war_helmet|Elmo com Pequeno Cauda
-itm_khergit_war_helmet_pl|Elmo com Pequeno Cauda
+itm_khergit_war_helmet|Elmo com Cauda Curta
+itm_khergit_war_helmet_pl|Elmo com Cauda Curta
 itm_kher_war_helm_a|Elmo Lamelar
 itm_kher_war_helm_a_pl|Elmo Lamelar
 itm_kher_war_helm_b|Elmo Lamelar
@@ -2441,8 +2445,8 @@ itm_hus_sturmhaube_b|Borguinhota com Proteção Nasal
 itm_hus_sturmhaube_b_pl|Borguinhota com Proteção Nasal
 itm_vaegir_fur_cap|Elmo de Couro com Proteção Nasal
 itm_vaegir_fur_cap_pl|Elmo de Couro com Proteção Nasal
-itm_taiga_helmet_b|Helmet w/ Cauda
-itm_taiga_helmet_b_pl|Helmet w/ Cauda
+itm_taiga_helmet_b|Helmet c/ Cauda
+itm_taiga_helmet_b_pl|Helmet c/ Cauda
 itm_vaegir_fur_helmet|Elmo Vaegir
 itm_vaegir_fur_helmet_pl|Elmo Vaegir
 itm_taiga_helmet_a|Elmo com Proteção Nasal & Cauda
@@ -3597,8 +3601,8 @@ itm_coat_b|Cabra Montanhesa
 itm_coat_b_pl|Cabra Montanhesa
 itm_wilddonkey|Iaque
 itm_wilddonkey_pl|Iaque
-itm_cart|Carroça
-itm_cart_pl|Carroça
+itm_rudis|Rudis
+itm_rudis_pl|Rudis
 itm_an_horse_a|Animal Cavalo Bay
 itm_an_horse_a_pl|Animal Cavalo Bay
 itm_an_horse_b|Animal Cavalo Brown

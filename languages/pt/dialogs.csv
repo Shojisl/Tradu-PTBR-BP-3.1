@@ -1,7 +1,6 @@
-lockitver|DO NOT DELETE THIS LINE! Tradução PTBR - 2015-2021 - by Cláudio Vieira e Evandro Neto
+lockitver|DO NOT DELETE THIS LINE! Tradução PTBR - 2015-2023 - by Cláudio Vieira e Evandro Neto
 dlga_start:lco_conversation_end|Aqui está você.
 dlga_start:close_window.1|Esta pessoa parece ocupada. Acho que eu não deveria incomodar...
-dlga_start:close_window.2|Esta pessoa parece ocupada. Acho que eu não deveria incomodar...
 dlga_award_fief_to_vassal:award_fief_to_vassal_defer|Quero adiar a nomeação de um novo lorde até que me consulte com meus súditos.
 dlga_award_fief_to_vassal_defer:close_window|Como desejar, {senhor/milady}. Pode decidir isso mais tarde.
 dlga_award_fief_to_vassal_2:close_window|Como quiser, {senhor/senhora}. {reg6?Eu serei:{reg7?Você será:{s11} será}} {reg3?a nova lady:o novo lorde} de {s1}.
@@ -130,6 +129,7 @@ dlga_ramun_ask_about_capturing_5:ramun_ask_about_capturing_7|Ah, sim, uma últim
 dlga_ramun_ask_about_capturing_7:ramun_pre_talk|Obrigado, tentarei me lembrar.
 dlga_ramun_talk:ramun_leave|É melhor eu ir.
 dlga_ramun_leave:close_window|Lembre-se, você pode me trazer qualquer prisioneiro que capturar. Pagarei uma boa quantia por cada um.
+dlga_start:close_window.4|Bem-vindo, {playername}. Não temos muitas chances por aqui de conhecer Rudiarius pessoalmente. Eu sou o Doutor. Eu cuido da seleção de lutadores, preparação de lutas e treinamento. Não importa se é um escravo recém-adquirido ou um jovem nobre em busca de fama, qualquer um e todos com a ambição de participar de nossas lutas tem que passar por minhas verificações pessoais, mas no seu caso essas formalidades não serão necessárias, sua reputação precede vocês. Se você quiser agendar uma luta, consulte Lanista.
 dlga_start:novicemaster_introduce|Eu sou o Doctore. Sou responsável pela seleção de lutadores, preparação e treinamento da luta. Não importa se é um escravo recém-adquirido ou um jovem nobre em busca de fama, qualquer pessoa com a ambição de participar de nossas lutas tem que passar em meus testes. O Ludus também oferece treinamento básico, gratuitamente. Use essa oportunidade e treine até que seus músculos doam. Não há recompensas sem muito trabalho. Qual é o seu nome?
 dlga_novicemaster_introduce:novicemaster_introduce_2|{playername}.
 dlga_novicemaster_introduce_2:novicemaster_introduce_3|Muito prazer, {playername}. Você gostaria de entrar na arena?
@@ -582,8 +582,8 @@ dlga_member_fief_grant_1:member_fief_grant_2|Que feudo você tem em mente?
 dlga_member_fief_grant_2:member_fief_grant_3|{s11}
 dlga_member_fief_grant_2:do_member_trade|Esqueça. Por enquanto não posso lhe oferecer nenhum feudo.
 dlga_member_fief_grant_3:close_window|{s5}
+dlga_start:close_window.10|Vamos sair quando estiver pronto.
 dlga_start:close_window.11|Vamos sair assim que você estiver pront{o/a}.
-dlga_start:close_window.12|Por favor, não desperdice mais o meu tempo, {senhor/senhora}. Talvez nos encontremos de novo em nossas viagens.
 dlga_start:companion_recruit_intro_response|{s5}
 dlga_companion_recruit_intro_response:companion_recruit_backstory_a|{s6}
 dlga_companion_recruit_intro_response:close_window|{s7}
@@ -1347,12 +1347,12 @@ dlga_lord_groom_vows:female_pc_marriage_vow|{Milorde/Milady}, diante desta nobre
 dlga_female_pc_marriage_vow:lord_groom_wedding_complete|Eu me comprometo a tomar-lhe como {reg65?minha esposa:meu marido}.
 dlga_female_pc_marriage_vow:close_window|Espere, eu preciso pensar.
 dlga_lord_groom_wedding_complete:close_window|Agora já somos marido e mulher. Que comecem os festejos!
+dlga_start:close_window.12|Por favor, não desperdice mais o meu tempo, {senhor/senhora}. Talvez nos encontremos de novo em nossas viagens.
 dlga_start:close_window.13|Muito bem, você venceu. Não tenho nada a dizer.
 dlga_start:close_window.14|Bem, {senhor/senhora}! Por favor, não se incomode tentando levantar-se do solo, já que teria que voltar a cair. Tomarei seu silêncio por uma desculpa. Que tenha um bom dia.
 dlga_start:close_window.15|Muito bem, você venceu. Eu me retrato. Espero que isto {o/a} satisfaça.
 dlga_start:close_window.16|Há! Você não é tão galanteador agora, hã? Não me incomode mais.
 dlga_start:close_window.17||Está bem. Você ganhou. Que todos os presentes hoje vejam que você me venceu e eu abandonarei meu cortejo a {s10}. Está {satisfeito/satisfeita}, {bastardo/vadia}?
-dlga_start:close_window.18|Levante-se. Que todos os presentes hoje vejam que o venci, e que agora terá que abandonar seu cortejo a {s10}. Eu lhe permitirei uma última visita para se despedir. Depois disso, se voltar a {reg0?vê-la:vê-lo}, todos saberão que você é {um homem/uma mulher} sem honra.
 dlga_start:player_siege_castle_commander_1|O você que quer?
 dlga_player_siege_castle_commander_1:player_siege_ask_surrender|Renda-se! Sua situação é desesperadora!
 dlga_player_siege_castle_commander_1:close_window|Nada. Eu me retiro.
@@ -1655,7 +1655,6 @@ dlga_dplmc_lord_internal_politics_plyr_request_support_1:dplmc_lord_internal_pol
 dlga_dplmc_lord_internal_politics_plyr_request_support_1:lord_pretalk|Esqueça.
 dlga_dplmc_lord_internal_politics_plyr_request_support_1:dplmc_lord_internal_politics_plyr_request_support_2|{s4}
 dlga_dplmc_lord_internal_politics_plyr_request_support_2:lord_pretalk|Dado nosso relacionamento, eu prefiro manter minha própria opinião nesse assunto.
-dlga_lord_internal_politics_support_same_acknowledge:lord_pretalk.3|Dada a sua relação com {s4}, não creio que seu apoio foi bem recebido.
 dlga_dplmc_lord_internal_politics_plyr_request_support_2:lord_pretalk.1|{s4} tem gerado muita controvérsia para que {reg3?ela:ele} possa ser um candidato viável agora. Eu aconselharia {reg3?ela:ele} a esperar um pouco antes que procure mais honrarias.
 dlga_dplmc_lord_internal_politics_plyr_request_support_2:lord_pretalk.2|{s4} já foi amplamente recompensado com feudos... Todos dignos de seus grandes feitos, eu diria.
 dlga_dplmc_lord_internal_politics_plyr_request_support_2:lord_pretalk.3|Eu penso que {s4} precisaria provar a si mesmo antes que {reg3?ela:ele} se candidate para essa posição.
@@ -1664,7 +1663,6 @@ dlga_dplmc_lord_internal_politics_plyr_request_support_2:lord_pretalk.5|Eu penso
 dlga_dplmc_lord_internal_politics_plyr_request_support_2:lord_pretalk.6|{s1}
 dlga_dplmc_lord_internal_politics_plyr_request_support_2:lord_pretalk.7|Hmm... Isso é pedir  demais, dado o estado do meu relacionamento com vocês dois.
 dlga_dplmc_lord_internal_politics_plyr_request_support_2:lord_pretalk.8|Desculpe, mas não gostaria de prejudicar minhas relações com {s4}.
-dlga_dplmc_lord_internal_politics_plyr_request_support_2:lord_pretalk.9|Terei prazer em apoiar {s4}.
 dlga_lord_internal_politics_cur_stance_plyr_response:lord_pretalk|De qualquer forma, basta de política no momento.
 dlga_lord_internal_politics_plyr_request_support:lord_pretalk|Você tem gerado muita controvérsia para ser um candidato viável agora. Eu o aconselho a esperar um tempo antes de procurar mais honras para si.
 dlga_lord_internal_politics_plyr_request_support:lord_pretalk.1|Desculpe, mas não gostaria de prejudicar minhas relações com o {s4}
@@ -1677,7 +1675,6 @@ dlga_lord_recruit_1_relation:lord_pretalk.1|{s12}
 dlga_lord_recruit_1_relation:lord_recruit_pretender|Você levantou uma rebelião em nome de {s16}. Veio implorar pela causa {reg3?dela:dele}?
 dlga_lord_recruit_pretender:lord_recruit_3_dilemma_1|Sim.
 dlga_lord_recruit_pretender:lord_recruit_1_relation|Não, não exatamente. Há outro assunto que gostaria de tratar.
-dlga_lord_recruit_1_relation:lord_pretalk.2|{s12}
 dlga_lord_recruit_1_relation:lord_recruit_2|{s12}
 dlga_lord_recruit_2:lord_recruit_2_philosophy|O que geralmente pensa sobre reis, lordes e política?
 dlga_lord_recruit_2:lord_spouse_leave_faction|{reg65?Querida esposa:Querido Marido}, acho que você deveria reconsiderar sua lealdade ao {s11}
@@ -2488,10 +2485,10 @@ dlga_spouse_feast_confirm:spouse_feast_confirm_yes|Enviemos os convites.
 dlga_spouse_feast_confirm:spouse_pretalk|Esperemos, então.
 dlga_spouse_feast_confirm_yes:spouse_pretalk|Enviarei uma mensagem então, anunciando que realizaremos um banquete, logo que as circunstâncias do reino o permitam. Talvez você devesse continuar provisionando nossas despensas, de modo a honrar a nossa bem considerada hospitalidade.
 dlga_spouse_feast_confirm_yes:spouse_pretalk.1|Muito bem, de acordo. Que comece o banquete de imediato em nossa corte {reg4?aqui:} em {s9}. Você talvez deva continuar reabastecendo nossa despensa, para assim poder fazer justiça à nossa reputação de hospitalidade. Você pode declarar o encerramento da festa a qualquer tempo, basta começar uma campanha, ou ainda, deixar os vassalos saberem que podem voltar às suas casas.
+dlga_start:close_window.18|Levante-se. Que todos os presentes hoje vejam que o venci, e que agora terá que abandonar seu cortejo a {s10}. Eu lhe permitirei uma última visita para se despedir. Depois disso, se voltar a {reg0?vê-la:vê-lo}, todos saberão que você é {um homem/uma mulher} sem honra.
 dlga_start:close_window.19|É maravilhoso... em breve estaremos casados! Embora eu deva dizer-lhe que, segundo nossos costumes, os prometidos não devem conversar a sós até estarem casados.
 dlga_start:close_window.20|Oh, {playername}, pode ser que não conheça nossos costumes, mas esperava que alguém lhes houvesse dito... Por favor, fale primeiro com meu {s11}, {s4}.
 dlga_start:close_window.21|Não sei onde encontrar meu {s11}, {s10}, que segundo as tradições é quem deve presidir nosso casamento. Talvez devamos esperar até que alguém o encontre.
-dlga_start:close_window.22|O honrado {s12} concordou em permitir que retornemos às nossas famílias. Começaremos a viagem o quanto antes.
 dlga_start:kingdom_lady_captive|Que dura é a solidão! Como sinto falta da minha família!
 dlga_start:kingdom_lady_captive.1|Não tem vergonha, {senhor/senhora}, por reter uma dama desta maneira?
 dlga_start:kingdom_lady_captive.2|É estranho. Às vezes você me mostra grande gentileza, e ainda assim continua retendo-me aqui contra minha vontade.
@@ -2500,7 +2497,7 @@ dlga_lady_stranded_next:close_window|Saudações, {senhor/milady}. As tormentas 
 dlga_start:lady_talk_refugee|{playername}, permita-me supor que você, como {homem/mulher} de honra, concederá às damas de sangue nobre o direito de retornar livremente para as suas famílias, e não exigirá nenhum resgate.
 dlga_start:lady_escort_lady_succeeded|Obrigada por escoltar-me até aqui, {playername}. Por favor, aceite este presente como forma de minha gratidão. Espero que nos encontremos de novo no futuro.
 dlga_lady_escort_lady_succeeded:close_window|Foi uma honra servi-la, {s65}.
-dlga_start:close_window.23|Em breve partirei para {s5}. É bom saber que ainda há pessoas neste mundo com senso de honra.
+dlga_start:close_window.22|O honrado {s12} concordou em permitir que retornemos às nossas famílias. Começaremos a viagem o quanto antes.
 dlga_lady_talk_refugee:close_window|Mas é claro, milady.
 dlga_lady_talk_refugee:lady_captive_talk|Você supôs mal, milady!
 dlga_lady_captive_talk:lady_captive_confirm|O quê?! Que infâmia é esta?
@@ -2508,7 +2505,7 @@ dlga_lady_captive_confirm:close_window|Minhas desculpas... você deve ter me int
 dlga_lady_captive_confirm:close_window.1|Contate sua família para oferecer um resgate, milady.
 dlga_kingdom_lady_captive:close_window|Então escreva a sua família e peça-lhes que se apressem com o resgate!
 dlga_kingdom_lady_captive:close_window.1|Mudei de ideia... você está livre para ir embora.
-dlga_start:close_window.24|Bem, {playername}... você teve um duelo com {s10} e perdeu. De acordo com nossos costumes e tradições, não posso voltar a recebê-lo. Adeus, {playername}.
+dlga_start:close_window.23|Em breve partirei para {s5}. É bom saber que ainda há pessoas neste mundo com senso de honra.
 dlga_start:lady_duel_lost|Oh, {playername}! Ouvi falar de seu duelo com o {s10}. Desejaria que jamais houvesse lutado contra ele, mas agora a nossa honra e tradição lhe obrigam a que, devido a derrota frente a ele, deve romper seus laços comigo. Adeus, {playername}.
 dlga_lady_duel_lost:close_window|Muito bem, façamos como exige a tradição... Adeus, milady.
 dlga_lady_duel_lost:lady_duel_lost_flaunt_conventions|Que apodreça-se a honra e a tradição!
@@ -2554,7 +2551,7 @@ dlga_rescue_prisoner_succeed_1:lady_pretalk|Será sempre uma honra servi-la, {s6
 dlga_start:lady_meet_end|Você deve ser {playername}. Acabamos de ter a honra de observar sua distinta habilidade no recente torneio{s8}.
 dlga_start:lady_meet_end.1|Você deve ser {playername}. Meu {s15}, {s16}, me falou muito bem de você. Estou encantada em conhecê-lo.
 dlga_start:lady_premeet|Você, de fato, não me é familiar...
-dlga_start:close_window.25|Ah, {playername}. Como é bom vê-l{o/a} novamente. Contudo, acredito que necessitam de mim em outro lugar.
+dlga_start:close_window.24|Bem, {playername}... você teve um duelo com {s10} e perdeu. De acordo com nossos costumes e tradições, não posso voltar a recebê-lo. Adeus, {playername}.
 dlga_start:lady_start.3|{playername}, me enche de prazer vê-lo novamente. *sussurra*... Ainda me recordo com carinho das suas visitas...
 dlga_start:lady_meet_end.2|Ah, {playername}. Foi incrível observar sua excepcional habilidade no último torneio.
 dlga_start:lady_start.4|{s12}
@@ -2775,7 +2772,7 @@ dlga_seneschal_ask_location:seneschal_ask_location_2|Bom, um homem da minha posi
 dlga_seneschal_ask_location_2:seneschal_ask_location_3|{s1}
 dlga_seneschal_ask_location_2:seneschal_pretalk|Não importa.
 dlga_seneschal_ask_location_3:seneschal_pretalk|{s1}
-dlga_start:close_window.26|Ali! Posso ver os muros de {s3} à distância! Chegamos sãos e salvos. Tome estes {reg3} denares, como prometi. Espero que possamos viajar novamente juntos em uma outra oportunidade.
+dlga_start:close_window.25|Ah, {playername}. Como é bom vê-l{o/a} novamente. Contudo, acredito que necessitam de mim em outro lugar.
 dlga_start:talk_caravan_escort|Chegamos até aqui... Está tudo limpo à frente?
 dlga_talk_caravan_escort:talk_caravan_escort_2a|Podem haver bandidos próximos. Não se afaste.
 dlga_talk_caravan_escort_2a:close_window|Acredite em mim, {playername}, já estamos o mais perto que podemos de você. Vá na frente.
@@ -2859,7 +2856,7 @@ dlga_start:castle_guard_players|Suas ordens, {Milorde/Milady}?
 dlga_castle_guard_players:close_window|Abra a porta. Vou entrar.
 dlga_castle_guard_players:close_window.1|Não importa.
 dlga_start:castle_guard_sneaked_intro_1|Fora da minha vista, {mendigo/mendiga}! Você fede!
-dlga_start:close_window.27|Saia daqui antes que eu perca a paciência, patife.
+dlga_start:close_window.26|Ali! Posso ver os muros de {s3} à distância! Chegamos sãos e salvos. Tome estes {reg3} denares, como prometi. Espero que possamos viajar novamente juntos em uma outra oportunidade.
 dlga_castle_guard_sneaked_intro_1:castle_guard_sneaked_intro_2|Quero entrar no salão e falar com o lorde.
 dlga_castle_guard_sneaked_intro_1:close_window|[Deixar]
 dlga_castle_guard_sneaked_intro_2:close_window|Você perdeu a cabeça, {homem/mulher}? Não é permitida a entrada de mendigos no salão. Agora saia daqui ou lhe darei uma boa surra.
@@ -2891,8 +2888,8 @@ dlga_castle_gate_open:close_window.1|Milorde {s2} não se encontra no castelo ag
 dlga_castle_gate_open:close_window.2|Entre. Vou abrir os portões para você.
 dlga_castle_gate_open:close_window.3|Entre. Mas certifique-se de que seus homens sejam sensatos e se comportem dentro destes muros. Milorde {s2} não quer problemas aqui.
 dlga_castle_gate_open:close_window.4|Milorde {s2} não lhe quer aqui. Vá embora.
+dlga_start:close_window.27|Saia daqui antes que eu perca a paciência, patife.
 dlga_start:close_window.28|Você chegou a tempo. Unimos nossas forças e demos uma lição nos nossos inimigos!
-dlga_start:close_window.29|Está cometendo um grande erro ao lutar contra nós.
 dlga_start:ally_thanks_meet|Creio que ainda não nos apresentamos devidamente {meu amigo/minha amiga}. Você salvou minha vida lá fora e ainda não sei o seu nome...
 dlga_start:ally_thanks_meet.1|Sua ajuda foi muito bem-vinda, {estranho/estranha}. Eu sou o {s1}. Poderia me dizer seu nome?
 dlga_start:ally_thanks_meet.2|Obrigado pela ajuda, forasteiro. Ainda não nos apresentamos apropriadamente, certo? Como se chama?
@@ -2900,6 +2897,7 @@ dlga_ally_thanks_meet:ally_thanks_meet_2|Meu nome é {playername}.
 dlga_ally_thanks_meet_2:close_window|É um prazer, {playername}. Sou o {s1} e sou eternamente grato. Se alguma vez houver algo em que eu possa ajudá-lo, faça-me saber...
 dlga_ally_thanks_meet_2:close_window.1|Muito prazer, {playername}. Estou em dívida com você pelo que acabou de fazer. Espero poder encontrar uma forma de retribuir o favor algum dia.
 dlga_ally_thanks_meet_2:close_window.2|Muito prazer, {playername}. Sou o {s1}. Obrigado por sua ajuda, espero que nos encontremos de novo.
+dlga_start:close_window.29|Está cometendo um grande erro ao lutar contra nós.
 dlga_start:close_window.30|Mais uma vez você salvou nossos pescoços, {playername}! Realmente é {o/a} melhor {dos amigos/das amigas}. {s43}.
 dlga_start:close_window.31|Você chegou na hora certa, {playername}! Dou-lhe meus mais sinceros agradecimentos! {s43}
 dlga_start:close_window.32|Você chegou na hora certa, {playername}. Não esquecerei sua ajuda. {s43}
@@ -2907,8 +2905,6 @@ dlga_start:close_window.33|Alegra-me vê-l{o/a} aqui, {playername}. {s43}
 dlga_start:close_window.34|{s43}
 dlga_start:close_window.35|{s43}
 dlga_start:close_window.36|Obrigado pela ajuda, {milorde/milady}. Salvou {reg1?nossas vidas:minha vida}.
-dlga_start:close_window.37|Obrigado pela ajuda, {milorde/milady}. As coisas realmente pareciam ruins para nós... mas então você chegou e mudou tudo.
-dlga_start:close_window.38|Obrigado pela ajuda, {senhor/senhora}. Foi sorte tê-l{o/a} por perto.
 dlga_start:kidnapped_girl_liberated_battle|Oh, {senhor/senhora}, sou tão grata por ter me resgatado. Irá me levar agora para minha família?
 dlga_start:kidnapped_wife_liberated_battle|Oh {senhor/senhora}. Muito obrigada por me resgatar. Vai me levar de volta para a minha aldeia agora?
 dlga_start:freed_hero_answer|Estou em dívida com você por ter me libertado, {amigo/amiga}.
@@ -2928,7 +2924,6 @@ dlga_combined_political_quests:political_quest_suggested.3|Como pode deduzir, mu
 dlga_political_quest_follow_on:close_window.2|Apreciamos imensamente o que está fazendo. As intrigas sempre me pareceram impróprias da nobreza, mas é tudo pelo bem de {s5}.
 dlga_political_quest_follow_on:close_window.3|Muito bem. Sempre implica riscos envolver-se em intrigas desta índole, mas neste caso, creio que resultarão em benefícios.
 dlga_combined_political_quests:political_quest_suggested.4|Você e eu temos um claro interesse comum em limitar a ascensão do {s4}. Acredito que {reg4?ela:ele} é {s7}, e me preocupa profundamente o fato de que {reg4?ela:ele} venha a {s8}. Se você transmitisse a nosso senhor, o {s9}, sua opinião sobre o {s4}, isso sem dúvida desencorajaria o {s9}, no momento, de conceder ao {s4} qualquer novo poder ou responsabilidade, pelo menos por um tempo, e eu lhe seria muito grato.
-dlga_political_quest_follow_on:close_window.4|Agradecemos o que você está fazendo. Acho essas intrigas desagradáveis, mas é tudo pelo bem de {s5}.
 dlga_combined_political_quests:political_quest_suggested.5|Nada me ocorre neste momento, mas tenho certeza de que no futuro teremos novos interesses em comum.
 dlga_political_quest_suggested:political_quest_follow_on|Gosto dessa ideia...
 dlga_political_quest_suggested:combined_political_quests|Hmm... não lhe ocorre mais nenhuma ideia?
@@ -2958,8 +2953,7 @@ dlga_fugitive_5:fugitive_fight_start.1|Não venho por dinheiro, mas sim para exe
 dlga_fugitive_5:fugitive_fight_start.2|Ah! Vejo que não posso fazê-lo cair na razão.
 dlga_fugitive_fight_start:close_window|Morra, cão!
 dlga_start:fugitive_12|Mortos! Todos mortos! Por favor não me machuque.
-dlga_start:close_window.39|Vou fazer como você disse.
-dlga_start:close_window.40|Vou fazer como você disse.
+dlga_start:close_window.37|Obrigado pela ajuda, {milorde/milady}. As coisas realmente pareciam ruins para nós... mas então você chegou e mudou tudo.
 dlga_fugitive_12:fugitive_22|Estou procurando uma garota em fuga chamada {s4}. Você se encaixa na descrição.
 dlga_fugitive_12:close_window|Acalme-se, querida. Não tenho negócios com você.
 dlga_fugitive_22:fugitive_32|Acho que não adianta fingir o contrário, {senhor/senhora}. Eu apenas queria ter uma vida melhor com o meu amor. E ele era tão bonito! Mas... mas meu pai com certeza vai me matar se eu voltar.
@@ -2978,7 +2972,7 @@ dlga_sacrificed_messenger_3:sacrificed_messenger_cancel|Argh! Não posso fazer i
 dlga_sacrificed_messenger_cancel:sacrificed_messenger_cancel_2|O que quer dizer, {senhor/senhora}?
 dlga_sacrificed_messenger_cancel_2:sacrificed_messenger_cancel_3|Prepararam-lhe uma emboscada na cidade. {s3} me ordenou que sacrificasse um de meus melhores guerreiros para enganar o inimigo, mas ele terá que encontrar outra forma de fazê-lo.
 dlga_sacrificed_messenger_cancel_3:close_window|Obrigado, {senhor/senhora}. Lhe seguiria até mesmo aos portões do inferno. Mas não gostaria de morrer assim.
-dlga_start:close_window.41|Não se preocupe, {senhor/senhora}, estou a caminho.
+dlga_start:close_window.38|Obrigado pela ajuda, {senhor/senhora}. Foi sorte tê-l{o/a} por perto.
 dlga_start:follow_spy_talk|Bom dia, {senhor/senhora}. O tempo está ótimo, não acha? Se me der licença, devo seguir meu caminho.
 dlga_follow_spy_talk:follow_spy_talk_2|Em nome de {s1}, você está preso!
 dlga_follow_spy_talk_2:close_window|Não me pegarão com vida!
@@ -3243,7 +3237,6 @@ dlga_minstrel_gossip_select:minstrel_pretalk|Não importa.
 dlga_minstrel_gossip_maiden_selected:minstrel_gossip_maiden_selected_2|{s16}
 dlga_minstrel_gossip_maiden_selected_2:minstrel_postgossip|{reg0?Ela é casada:Ele é casado} com você, é claro! Claramente ninguém sonharia que {reg0?ela:ele} faria qualquer coisa para engendrar fofocas.
 dlga_minstrel_gossip_maiden_selected_2:minstrel_postgossip.1|{s12}.
-dlga_minstrel_gossip_maiden_selected_2:minstrel_postgossip.2|{s12}.
 dlga_minstrel_postgossip:minstrel_pretalk|Muito interessante, mas vamos falar de outra coisa.
 dlga_minstrel_postgossip:minstrel_gossip|Muito interessante, há mais alguma notícia?
 dlga_minstrel_postgossip:minstrel_duel_confirm|Quê?! Mostrarei a esse vilão a minha espada!
@@ -3303,7 +3296,7 @@ dlga_farmer_from_bandit_village_5:farmer_from_bandit_village_barter|E por que eu
 dlga_farmer_from_bandit_village_accepted:close_window|Que Deus {o/a} abençoe, {senhor/senhora}. Nossa aldeia é {s7}. Não está muito longe daqui.
 dlga_farmer_from_bandit_village_denied:close_window|Como quiser, {senhor/senhora}. Perdoe o incômodo.
 dlga_farmer_from_bandit_village_barter:farmer_from_bandit_village_5|Somos uns pobres camponeses, {senhor/senhora}, e os bandidos já nos tiraram quase tudo o que temos neste mundo. Mas compartilharemos de bom grado com você o que nos resta. E sempre lhe seremos gratos pelo apoio oferecido.
-dlga_start:close_window.42|Obrigado pela ajuda, {milorde/milady}. Esmagamos aqueles bandidos!
+dlga_start:close_window.39|Vou fazer como você disse.
 dlga_start:mercenary_tavern_talk|Necessita de mercenários, {senhor/senhora}? {reg3?Eu e {reg4?{reg3} de meus companheiros:um de meus companheiros} estamos:Estou} buscando um líder. Nos uniremos a você por {reg5} denares.
 dlga_start:mercenary_after_recruited|Quais as ordens, {senhor/senhora}?
 dlga_mercenary_after_recruited:mercenary_after_recruited_2|Prepare-se. Saímos ao amanhecer.
@@ -3527,8 +3520,8 @@ dlga_merchant_quest_brief:escort_merchant_caravan_quest_brief|Vou enviar uma car
 dlga_escort_merchant_caravan_quest_brief:merchant_quest_taken|Está bem. Escoltarei a caravana.
 dlga_escort_merchant_caravan_quest_brief:merchant_quest_stall|Temo que não tenho tantos soldados comigo.
 dlga_escort_merchant_caravan_quest_brief:merchant_quest_stall.1|Sinto dizer, mas não posso fazer isso agora.
-dlga_start:close_window.43|VocêPodemos percorrer sozinhos o resto do caminho. Obrigado.
-dlga_start:close_window.44|Bom, estamos quase chegando à {s21}. Podemos percorrer sozinhos o resto do caminho. Aqui está seu pagamento... {reg14} denares. Obrigado por escoltar-nos. Boa sorte!
+dlga_start:close_window.40|Vou fazer como você disse.
+dlga_start:close_window.41|Não se preocupe, {senhor/senhora}, estou a caminho.
 dlga_start:merchant_caravan_intro_1|Saudações. Você deve ser nossa escolta, não?
 dlga_merchant_caravan_intro_1:merchant_caravan_intro_2|Sim. Meu nome é {playername} e os levarei até {s1}.
 dlga_merchant_caravan_intro_2:escort_merchant_caravan_talk|Bem, é bom saber que não viajaremos sós. O que quer que façamos agora?
@@ -3562,7 +3555,7 @@ dlga_merchant_quest_brief:kidnapped_girl_quest_brief|A quantia que os bandidos p
 dlga_kidnapped_girl_quest_brief:kidnapped_girl_quest_taken|Tudo bem. Levarei o dinheiro do resgate aos bandidos e retornarei com a moça.
 dlga_kidnapped_girl_quest_taken:close_window|Perfeito! Sabia que poderíamos confiar em você para esta tarefa. Aqui está o dinheiro do resgate, {reg12} denares. Conte-o antes de pagá-lo. E por favor, não cometa nenhuma imprudência. Tenha em mente que o bem-estar da donzela é o mais importante...
 dlga_kidnapped_girl_quest_brief:merchant_quest_stall|Sinto muito. Não tenho tempo para isso agora.
-dlga_start:close_window.45|Muito obrigada por me trazer de volta! Mal posso esperar para ver minha família. Adeus.
+dlga_start:close_window.42|Obrigado pela ajuda, {milorde/milady}. Esmagamos aqueles bandidos!
 dlga_kidnapped_girl_liberated_map:kidnapped_girl_liberated_map_2a|Sim. Venha comigo. Nós vamos para casa.
 dlga_kidnapped_girl_liberated_map_2a:close_window|Infelizmente, não tem lugar para mim em seu grupo.
 dlga_kidnapped_girl_liberated_map_2a:close_window.1|Oh, verdade? Muitíssimo obrigada!
@@ -3638,15 +3631,15 @@ dlga_start:village_elder_gubec|{playername}!^Você só traz problemas. Se você 
 dlga_village_elder_gubec:close_window|Seu bastardo descarado. [Sair]
 dlga_start:village_elder_deliver_cattle_thank|{Meu bom senhor/Minha boa senhora}, nossa aldeia agradece sua ajuda. Obrigado pelas {reg5} cabeças de gado que trouxe, agora podemos criar nosso próprio rebanho.
 dlga_village_elder_deliver_cattle_thank:village_elder_talk|{Meu bom senhor/Minha boa senhora}, diga-me, há algo que eu possa fazer por você?
-dlga_start:close_window.46|Maldito seja, mas você conseguiu, {playername}. Você acabou com todos os contrabandistas. Esta aldeia pode prosperar agora. Você certamente ganhou sua recompensa. Aqui, pegue, com meus cumprimentos.
+dlga_start:close_window.43|VocêPodemos percorrer sozinhos o resto do caminho. Obrigado.
 dlga_start:elder_hunt_down_smugglers_failed|{playername}. Temos esperado notícias de uma grande batalha entre você e os contrabandistas, mas não ouvimos nada. Não me diga que você os deixou ir?
 dlga_elder_hunt_down_smugglers_failed:elder_hunt_down_smugglers_failed_1a|Perdoe-me, ancião, aqueles contrabandistas eram escorregadios como enguias.
 dlga_elder_hunt_down_smugglers_failed_1a:close_window|Hmph, essa é uma péssima desculpa para o fracasso, {playername}. Agora, se me der licença, preciso trabalhar nas defesas da aldeia, pois eles estarão de volta e com a vingança em mente.
-dlga_start:close_window.47|Você me decepcionou, {playername}. Havia 3 grupos de contrabandistas que pedi para você caçar. 3. Não {reg17}. Suponho que devo ser grato pelos que não voltarem, seus corações negros de vingança pelos pobres aldeões que colocaram suas cabeças a venda. Mas alguns retornarão, e isso será algo sangrento. Aqui. Pegue sua recompensa e deixe que tudo isso acabe.
+dlga_start:close_window.44|Bom, estamos quase chegando à {s21}. Podemos percorrer sozinhos o resto do caminho. Aqui está seu pagamento... {reg14} denares. Obrigado por escoltar-nos. Boa sorte!
 dlga_start:village_elder_hunt_down_girl_thank|Muito obrigado por encontrar a garota e mandá-la de volta. Espero que isso seja uma lição para todas as garotas tolas por aqui. Estamos lutando da forma que podemos, não podemos permitir que mais de nossos jovens partam e criem uma ninhada em alguma aldeia rival. Como isso beneficiaria alguém aqui? Você tem o nosso agradecimento.
 dlga_start:village_elder_hunt_down_girl_thank.1|Bem, vejo que não fazia muito sentido mandar você atrás da garota. Percebe que esta aldeia está à beira da extinção? Todos os anos, temos cada vez menos filhos e vemos os nossos jovens partirem para a cidade ou para outras aldeias. E você ajudou nesse processo. Muito obrigado.
 dlga_village_elder_hunt_down_girl_thank:village_elder_talk|Agora, {senhor/senhora}, há algo que eu possa fazer por você?
-dlga_start:close_window.48|Olá, {playername}. Estamos em dívida com você por trazer de volta a esposa do moleiro. Você é realmente u{m/ma} amig{o/a} de nossa aldeia.
+dlga_start:close_window.45|Muito obrigada por me trazer de volta! Mal posso esperar para ver minha família. Adeus.
 dlga_start:lost_kidnapped_wife|Infelizmente perdi a mulher no caminho para cá...
 dlga_lost_kidnapped_wife:lost_kidnapped_wife_2|Oh, não! Como vou dizer isso ao moleiro?
 dlga_lost_kidnapped_wife_2:lost_kidnapped_wife_3|Sinto muito. Eu não pude fazer nada sobre isso.
@@ -3757,9 +3750,8 @@ dlga_escort_scholars_quest_brief:scholar_quest_taken|Vou acompanhar os estudioso
 dlga_escort_scholars_quest_brief:escort_scholars_reject|Desculpe. Não posso fazer isso agora.
 dlga_scholar_quest_taken:close_window|Obrigado, {senhor/senhora}. Desejamos a você boa sorte.
 dlga_escort_scholars_reject:close_window|Sim, {senhor/senhora}, é claro. Sinto muito se incomodei você com nossos problemas.
-dlga_start:close_window.49|Podemos percorrer o resto do caminho sozinhos. Obrigado.
-dlga_start:close_window.50|Bem, estamos quase em {s21}. Podemos cobrir o resto do caminho sozinhos. Aqui está o seu pagamento... {reg14} denares. Obrigado por nos acompanhar. Ah, e percebemos que você teve que passar por muito nessa jornada, que deveria ser comemorada em versos! Aceite este livro - cuidadosamente inscrito, Para {playername} dos seus estudiosos favoritos! como uma recompensa extra. Agora, espero que o refeitório está aberto. Boa sorte.
-dlga_start:close_window.51|Bem, estamos quase em {s21}. Podemos cobrir o resto do caminho sozinhos. Aqui está o seu pagamento... {reg14} denares. Também tínhamos um presente para você, um símbolo de nossa gratidão, mas parace que você está com o inventário lotado. Deixa pra lá! Obrigado por nos acompanhar. Boa sorte.
+dlga_start:close_window.46|Maldito seja, mas você conseguiu, {playername}. Você acabou com todos os contrabandistas. Esta aldeia pode prosperar agora. Você certamente ganhou sua recompensa. Aqui, pegue, com meus cumprimentos.
+dlga_start:close_window.47|Você me decepcionou, {playername}. Havia 3 grupos de contrabandistas que pedi para você caçar. 3. Não {reg17}. Suponho que devo ser grato pelos que não voltarem, seus corações negros de vingança pelos pobres aldeões que colocaram suas cabeças a venda. Mas alguns retornarão, e isso será algo sangrento. Aqui. Pegue sua recompensa e deixe que tudo isso acabe.
 dlga_start:scholars_intro_1|Saudações. Você deve ser nossa escolta, certo?
 dlga_scholars_intro_1:scholars_intro_2|Sim. Meu nome é {playername}. Vou levar vocês até {s1}.
 dlga_scholars_intro_2:escort_scholars_talk|Bem, é bom saber que não viajaremos sozinhos. O que você quer que façamos agora?
@@ -3786,7 +3778,6 @@ dlga_kidnapped_wife_quest_brief:kidnapped_wife_quest_taken|Tudo bem. Vou levar o
 dlga_kidnapped_wife_quest_taken:close_window|Ótimo. Eu sabia que podíamos contar com você. E, por favor, não tente fazer nada precipitado. Tenha em mente que o bem estar da mulher é mais importante do que qualquer outra coisa ...
 dlga_kidnapped_wife_quest_brief:kidnapped_wife_reject|Desculpe. Não tenho tempo para isso agora.
 dlga_kidnapped_wife_reject:close_window|Sim, {senhor/senhora}, é claro. Sinto muito se incomodei você com nossos problemas.
-dlga_start:close_window.52|Muito obrigada por me trazer de volta! Mal posso esperar para ver minha família. Adeus.
 dlga_kidnapped_wife_liberated_map:kidnapped_wife_liberated_map_2a|Sim. Venha comigo. Nós estamos indo para casa.
 dlga_kidnapped_wife_liberated_map_2a:close_window|Infelizmente. Não tem espaço no seu grupo para mim.
 dlga_kidnapped_wife_liberated_map_2a:close_window.1|Oh, sério? muito obrigada!
@@ -3980,9 +3971,10 @@ dlga_galeas_sell_prisoners_2:galeas_pretalk|Apenas continue enviando-os.
 dlga_start:arenamaster_fight|Parabéns, campe{ão/ã}. Você fez uns movimentos muito bons lá fora. Aqui está sua parte do prêmio em dinheiro, {reg5} denares.
 dlga_start:arenamaster_fight.1|É um belo hematoma esse que você está exibindo. Mas não se preocupe; todo mundo é derrotado de vez em quando. O importante é se levantar, sacudir a poeira e continuar lutando. É isso que os campeões fazem. É seu jeito ninja de ser!
 dlga_start:arenamaster_fight.2|Isso foi emocionante, não foi? Nada como uma boa luta para fazer o sangue correr em suas veias.
-dlga_start:arenamaster_introduce|É sempre um prazer ver um novo rosto. Bem-vind{o/a} ao Ludus Calradius! Me chamo Lanista. Tudo o que acontece no Ludus é assunto meu ou, mais precisamente, o Ludus é minha vida. Se você tem escravos de alta qualidade, por favor, venha me ver, eu cobrirei o preço de qualquer um. Como não ligo muito para as finanças, vendo ingressos e aceito apostas também. Não pude deixar de notar seu olhar e essa postura de guerreir{o/a}, talvez você queira lutar na arena?
 dlga_start:arenamaster_fight.3|Ora, se não é {o/a} {playername}. É bom te ver de novo.
-dlga_start:close_window.53|Desculpe, mas não há lutas durante a noite, por favor, volte pela manhã.
+dlga_start:arenamaster_introduce|É sempre um prazer ver um novo rosto. Bem-vind{o/a} ao Ludus Calradius! Me chamo Lanista. Tudo o que acontece no Ludus é assunto meu ou, mais precisamente, o Ludus é minha vida. Se você tem escravos de alta qualidade, por favor, venha me ver, eu cobrirei o preço de qualquer um. Como não ligo muito para as finanças, vendo ingressos e aceito apostas também. Não pude deixar de notar seu olhar e essa postura de guerreir{o/a}, talvez você queira lutar na arena?
+dlga_start:arenamaster_fight.4|Bem, se não for {playername}. Bom te ver de novo.
+dlga_start:close_window.48|Olá, {playername}. Estamos em dívida com você por trazer de volta a esposa do moleiro. Você é realmente u{m/ma} amig{o/a} de nossa aldeia.
 dlga_arenamaster_introduce:arenamaster_introduce_2|Prazer em conhecê-l{o/a}. Meu nome é {playername}. Agora, espere um minuto, você está dizendo que qualquer um pode lutar, eu também?
 dlga_arenamaster_introduce_2:arenamaster_introduce_3|Bem, não sei se você pode lutar ou não, mas certamente podemos arranjar e fazer acontecer. A Arena do Gladiador é o lugar com que todo lutador em busca de glória e fama sonha e também é o coração do Ludus Calradius! Pessoas de toda a Calradia vêm aqui para assistir nossos melhores gladiadores e ver como lutam, suam e derramam sangue. Vivemos para lutar e divertir as multidões e simplesmente não há maneira melhor.
 dlga_arenamaster_introduce_3:arenamaster_introduce_4|Parece muito interessante. Quem está lutando nessas lutas? Como posso entrar no ringue?
@@ -4067,10 +4059,10 @@ dlga_arenamaster_start_fight:close_window.2|Muito bem. A batalha começará em u
 dlga_arenamaster_start_fight:close_window.3|Muito bem. A batalha começará em um momento. Boa sorte, você com certeza vai precisar.
 dlga_arenamaster_start_fight:close_window.4|Muito bem. A justa começará em um momento. Boa sorte.
 dlga_arenamaster_start_fight:close_window.5|Muito bem. Os trocação de porrada começará em um momento.
-dlga_arenamaster_start_fight:close_window.6|O último homem de pé será o vencedor. Que se inicie o derramamento de sangue!
 dlga_bandit_introduce:bandit_talk|{s5}
 dlga_bandit_talk:close_window|Não conseguirá nada além do aço da minha lâmina, bastardo!
 dlga_bandit_talk:bandit_barter|Não há necessidade de lutar. Posso pagar pelo direito de passagem.
+dlga_bandit_talk:bandit_recruit|Por que você não se juntar a mim, eu pago bem.
 dlga_bandit_barter:bandit_barter_2|Prata sem sangue, isso é o que mais gostamos. Humm, dando uma olhada em você penso que você pode facilmente nos pagar {reg5} denares. Pague isso, e {o/a} deixaremos seguir seu caminho.
 dlga_bandit_barter_2:bandit_barter_3a|Muito bem, tome.
 dlga_bandit_barter_2:bandit_barter_3b|Não levo tanto dinheiro comigo.
@@ -4078,9 +4070,13 @@ dlga_bandit_barter_3b:close_window|É uma pena. Nesse caso, acho que {o/a} vende
 dlga_bandit_barter:close_window|Ei, ouvi falar de você! Exterminou nosso povo como se fossem cães e agora espera que {o/a} deixe ir por algumas moedas fedidas? Pode esquecer! Você não teve piedade de nós, e agora pagará na mesma moeda.
 dlga_bandit_barter_3a:close_window|Ei, ei, não foi tão difícil, hã? Muito bem, pode ir agora. Desapareça!
 dlga_start:bandit_meet|Sim? Do que se trata?
-dlga_bandit_meet:bandit_attack|Parece que a sorte {o/a} abandonou, escória. Prepare-se para morrer!
-dlga_bandit_attack:close_window|{s5}
 dlga_bandit_meet:close_window|Nada, não tenho assuntos pendentes com você.
+dlga_bandit_meet:bandit_recruit|Junte-se a mim e você viverá.
+dlga_bandit_recruit:close_window|Um {menino/menina} como você, que não poderia cometer erros? Não. Nós cortaremos sua garganta por sua insolência!
+dlga_bandit_recruit:bandit_recruit_2|Consideramos sua oferta de {reg0} denars.
+dlga_bandit_recruit_2:close_window|OK
+dlga_bandit_recruit_2:bandit_meet|Não importa.
+dlga_bandit_meet:close_window.1|Não importa, não tenho negócios com você.
 dlga_start:disbanded_troop_ask|Quer que o sigamos?
 dlga_disbanded_troop_ask:disbanded_troop_join|Sim. Cavalguemos juntos novamente.
 dlga_disbanded_troop_ask:close_window|Não. Agora não.
@@ -4235,9 +4231,27 @@ dlga_item_improve_2:item_improve_3|Feito!
 dlga_item_improve_2:merchant_trade|Mudei de ideia.
 dlga_item_improve_2:merchant_trade.1|Não tenho dinheiro suficiente.
 dlga_item_improve_3:merchant_trade|Aqui está o seu item, {s7}, de volta. Está refinado.
+dlga_town_merchant_talk:smith_requested_mastersmith|Existe um mestre armeiro em Calradia? Você conhece uma pessoa que pode refinar armas e não apenas consertá-las.
+dlga_smith_requested_mastersmith:smith_requested_mastersmith_2|O único que eu conheço é o famoso Mestre Balian. Você deve encontrá-lo em Ludus Calradius. Eles estão pagando a ele generosamente, então eu presumo que é por isso que ele está constantemente lá.
+dlga_smith_requested_mastersmith_2:merchant_trade|Vou tentar lembrar disso, obrigado.
 dlga_town_merchant_talk:armorer_requested_repair_1|Gostaria de consertar uma das peças da minha armadura.
 dlga_armorer_requested_repair_1:armorer_requested_repair_2|Qual?
 dlga_armorer_requested_repair_2:merchant_trade|Não importa.
+dlga_town_merchant_talk:armorer_requested_masterarmorer|Existe um mestre armeiro em Calradia? Você conhece uma pessoa que pode melhorar até mesmo armaduras novas.
+dlga_armorer_requested_masterarmorer:armorer_requested_masterarmorer_2|Mestre Tomaso, o melhor de Calradia. Ele se juntou à tripulação Ludus Calradius. Cuidado, porém, a qualidade sempre vem com o preço.
+dlga_armorer_requested_masterarmorer_2:merchant_trade|Acho que ouvi isso em algum lugar. Obrigada.
+dlga_town_merchant_talk:smith_requested_repair_1a|Quero refinar uma de minhas armas.
+dlga_smith_requested_repair_1a:smith_requested_repair_2a|Qual deles?
+dlga_smith_requested_repair_2a:merchant_trade|Deixa pra lá.
+dlga_item_improve_1a:item_improve_2a|Hmm, deixe-me dar uma olhada... Seu {s7} é {s8}. Acho que vou conseguir fazer {s9} por {reg1} denars. {s10}
+dlga_item_improve_1a:merchant_trade|Hmm, deixe-me dar uma olhada... Não há nada que eu possa fazer pelo seu {s7}. Não consigo refinar.
+dlga_item_improve_2a:item_improve_3a|Concordou!
+dlga_item_improve_2a:merchant_trade|Eu mudei de ideia.
+dlga_item_improve_2a:merchant_trade.1|Eu não tenho dinheiro suficiente.
+dlga_item_improve_3a:merchant_trade|Aqui você tem seu {s7} de volta. É refinado.
+dlga_town_merchant_talk:armorer_requested_repair_1a|Eu quero refinar uma das minhas partes de armadura.
+dlga_armorer_requested_repair_1a:armorer_requested_repair_2a|Qual deles?
+dlga_armorer_requested_repair_2a:merchant_trade|Deixa para lá.
 dlga_town_merchant_talk:horse_merchants_requested_repair_1|Minha montaria é difícil de montar. Você pode fazer algo sobre isso?
 dlga_horse_merchants_requested_repair_1:horse_merchants_requested_repair_2|Deixe-me ver o que posso fazer.
 dlga_horse_merchants_requested_repair_2:merchant_trade|Não importa.
@@ -4247,6 +4261,9 @@ dlga_horse_improve_2:horse_improve_3|Feito!
 dlga_horse_improve_2:merchant_trade|Mudei de ideia.
 dlga_horse_improve_2:merchant_trade.1|Não tenho dinheiro suficiente.
 dlga_horse_improve_3:merchant_trade|Aqui está o seu {s7} de volta. Foi castrado, recém ferrageado e um pouco domesticado. Agora ele é tímido.
+dlga_town_merchant_talk:horse_requested_masterhorse|Existe um mecânico de cavalos com uma seleção maior de raças de cavalos?
+dlga_horse_requested_masterhorse:horse_requested_masterhorse_2|Você está procurando por Pedro. Ele detém a maior seleção de raças de cavalos em Calradia e não apenas cavalos, ele tem tudo, até camelos e elefantes. Seus estábulos são enormes e ele permite experimentar e montar todas essas montarias antes mesmo de comprá-las. Os grandes estábulos de Pedro estão em Ludus Calradius.
+dlga_horse_requested_masterhorse_2:merchant_trade|Vou tentar lembrar disso, obrigado.
 dlga_merchant_trade:town_merchant_talk|Algo mais?
 dlga_town_merchant_talk:merchant_gossip|Diga-me, o que se comenta ultimamente?
 dlga_merchant_gossip:town_merchant_talk|Bem, nada de novo. O preço das coisas, o clima, a guerra, o de sempre.
@@ -4291,10 +4308,10 @@ dlga_start:player_castle_guard_talk|Sim, {senhor/senhora}?
 dlga_player_castle_guard_talk:player_castle_guard_talk_2|Como vai a guarda, soldado?
 dlga_player_castle_guard_talk_2:player_castle_guard_talk_3|Tudo está tranquilo, {senhor/senhora}. Nada a reportar.
 dlga_player_castle_guard_talk_3:close_window|Ótimo. Mantenha os olhos bem abertos.
-dlga_start:close_window.54|Bom dia, {s0}. É sempre uma honra tê-l{o/a} aqui em {s10}.
-dlga_start:close_window.55|Vigie seus modos enquanto estiver dentro destas muralhas e não teremos nenhum problema.
+dlga_start:close_window.49|Podemos percorrer o resto do caminho sozinhos. Obrigado.
+dlga_start:close_window.50|Bem, estamos quase em {s21}. Podemos cobrir o resto do caminho sozinhos. Aqui está o seu pagamento... {reg14} denares. Obrigado por nos acompanhar. Ah, e percebemos que você teve que passar por muito nessa jornada, que deveria ser comemorada em versos! Aceite este livro - cuidadosamente inscrito, Para {playername} dos seus estudiosos favoritos! como uma recompensa extra. Agora, espero que o refeitório está aberto. Boa sorte.
 dlga_start:hall_guard_talk|Suas ordens, {milorde/milady}?
-dlga_start:close_window.56|Nós não devemos falar enquanto estamos de guarda, {s0}.
+dlga_start:close_window.51|Bem, estamos quase em {s21}. Podemos cobrir o resto do caminho sozinhos. Aqui está o seu pagamento... {reg14} denares. Também tínhamos um presente para você, um símbolo de nossa gratidão, mas parace que você está com o inventário lotado. Deixa pra lá! Obrigado por nos acompanhar. Boa sorte.
 dlga_hall_guard_talk:hall_guard_duty|Siga montando guarda e faça-me saber se alguém veio me ver.
 dlga_hall_guard_duty:close_window|Sim, {milorde/milady}. Como desejar.
 dlga_hall_guard_talk:hall_guard_arrest|Quero que prenda este homem imediatamente!
@@ -4388,8 +4405,20 @@ dlga_upgrade_talk_1:upgrade_talk_2|Só cumpro meu dever para com {s65}, {senhor/
 dlga_upgrade_talk_2:upgrade_talk_3a|E cumpre muito bem. A única vez que ouvi alguém com essas habilidades em batalha foi nos contos. Você é um herói!
 dlga_upgrade_talk_2:upgrade_talk_3b|Só queria que você soubesse que noto essas habilidades em batalha. Agora volte para a linha!
 dlga_upgrade_talk_3a:upgrade_talk_4a|Você me honra com suas palavras. E eu farei o meu melhor para honrá-las.
-dlga_upgrade_talk_4a:upgrade_talk_5|A partir de agora você será lembrado como um {s21}
-dlga_upgrade_talk_5:close_window|Defenderei meu novo título até a morte e não irei te decepcionar. Eu te prometo isso; O sangue no aço da minha espada nunca irá secar!
+dlga_upgrade_talk_4a:close_window|Qual é o seu nome soldado?
+dlga_event_triggered:upgrade_closure_talk1|Meu nome é {s21}, {s65}.
+dlga_upgrade_closure_talk1:upgrade_closure_talk2|OK {s21}, ajoelhe-se e ouça com atenção.^^Não tenha medo diante dos inimigos.^Seja corajoso e correto para que Deus te ame.^Fale sempre a verdade, mesmo que isso leve à sua morte.^Guarde o impotente e não faça nada errado.^Esse é o seu juramento!^^(você dá um tapa nele com força)^^Levante-se como um Cavaleiro, {s21}!
+dlga_upgrade_closure_talk2:upgrade_closure_talk3|(sobe). Eu nunca vou esquecer este dia, {s65}.
+dlga_upgrade_closure_talk3:upgrade_closure_talk4|Nem eu {s21}, meu irmão, de agora em diante só {playername} serve.
+dlga_upgrade_closure_talk4:close_window|Obrigado {s65}, quero dizer {playername}.
+dlga_upgrade_closure_talk1:upgrade_closure_talk2b1|OK {s21}, ajoelhe-se e repita depois de mim.^Prometo pela minha fé que serei fiel a {s65}...
+dlga_upgrade_closure_talk2b1:upgrade_closure_talk2b2|(ajoelha-se)^Prometo pela minha fé que serei fiel a {s65}...
+dlga_upgrade_closure_talk2b2:upgrade_closure_talk2b3|... nunca causar-lhe mal ...
+dlga_upgrade_closure_talk2b3:upgrade_closure_talk2b4|... nunca causar-lhe mal ...
+dlga_upgrade_closure_talk2b4:upgrade_closure_talk2b5|...e observará minha homenagem a ele completamente contra todas as pessoas de boa fé e sem engano.
+dlga_upgrade_closure_talk2b5:upgrade_closure_talk2b6|...e observará minha homenagem a ele completamente contra todas as pessoas de boa fé e sem engano.
+dlga_upgrade_closure_talk2b6:upgrade_closure_talk2b7|Levante-se {s21} como irmão! Vamos comemorar.
+dlga_upgrade_closure_talk2b7:close_window|Obrigado {s65}, não vou decepcioná-lo.
 dlga_upgrade_talk_3b:close_window|Sim, {s65}.
 dlga_lco_conversation_end:close_window|Bom saber que você não está me esquecendo!
 dlga_lco_conversation_end:close_window.1|É uma honra servi-l{o/a}, {senhor/minha senhora}!

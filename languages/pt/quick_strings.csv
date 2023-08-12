@@ -1,4 +1,4 @@
-lockitver|DO NOT DELETE THIS LINE! Tradução PTBR - 2015-2021 - by Cláudio Vieira e Evandro Neto
+lockitver|DO NOT DELETE THIS LINE! Tradução PTBR - 2015-2023 - by Cláudio Vieira e Evandro Neto
 qstr_Next_Page|Próxima Página
 qstr_Game_Rules:^|Regras do jogo:^
 qstr_0|0
@@ -247,6 +247,32 @@ qstr_Show_castles|Mostrar castelos
 qstr_Show_villages|Mostrar aldeias
 qstr_Tip:_move_the_mouse_|Dica: mova o mouse sobre os quadrados pretos para ver seus nomes.
 qstr_The_World_Map|Mapa Mundo
+qstr_Unassigned|Terra desocupada
+qstr_{s0}|{s0}
+qstr_Show_unassigned|Mostrar terra desocupada
+qstr_Show_All/None|Mostrar tudo/Nenhum
+qstr_None2|Nenhum2
+qstr_OK|OK
+qstr_Show_faction:|Mostrar facção:
+qstr_Player|Jogador
+qstr_Help|Ajuda
+qstr_Selected_lord_has_no|O senhor selecionado não tem feudos.
+qstr_Hover_mouse_over_set|Passe o mouse sobre a liquidação para ver as informações básicas. Clique para alternar a visualização de todos os feudos atribuídos ao proprietário do assentamento. ^^Para alterar as cores, clique + shift em um assentamento colorido. Uma barra deslizante aparecerá no painel direito, mova para alterar a cor, pressione OK para finalizar. ^^Os controles permitem que você alterne todos os feudos não atribuídos, todos os feudos, todos os feudos de uma facção ou os feudos de um único personagem.
+qstr_Feudal_Map|Mapa Feudal
+qstr_Sort_your_Troops|Classifique suas tropas
+qstr__Return_| Retornar
+qstr_By_Level|Por nível
+qstr_By_Faction|Por facção
+qstr_By_Class|Por classe
+qstr_Ascending|Ascendente
+qstr_Fixed_Companions|Complementares fixos
+qstr_Faction_Order|Ordem de facção
+qstr_Class_Order|Ordem de Classe
+qstr_Sorted_by_level.|Ordenado por nível.
+qstr_Sorted_by_faction.|Classificado por facção.
+qstr_Sorted_by_class.|Ordenado por classe.
+qstr__Swapping_{s0}_..._| Trocando {s0}...
+qstr_...with_{s0}.|...com {s0}.
 qstr_Click_the_avatars_to|Clique nos avatares para ver detalhes sobre eles
 qstr_Others|Outros
 qstr_Outlaws|Foras-da-lei
@@ -339,11 +365,10 @@ qstr_Enable_Bodyguards_in|Habilitar Guarda-costas nas Cidades/Aldeias:
 qstr_Enable_ranged_penalt|Habilitar penalidaade a distância pela chuva:
 qstr_Disable_Companions__|Desabilitar reclamações dos Companheiros:
 qstr_Enable_the_cheat_men|Habilitar o menu de trapaças:
-qstr_{!}__Disabled__|{!}- Desativado -
 qstr_Charge_All|Todos Ataquem
 qstr_Formations_AI|Formações - IA
 qstr_Native_AI_w/Formatio|IA do Native com Formações
-qstr_PBOD_Mod^Options|PBOD Mod^Opções
+qstr_PBOD_Mod^Options|ODPB Mod^Opções
 qstr_Mouse_over_options_f|Mouse sobre opções para informações adicionais.
 qstr_Restore_Defaults|Restaurar Padrão
 qstr_Key_Settings|Configurações de Teclas
@@ -364,7 +389,6 @@ qstr_The_cheat/debug_mode|O modo trapaça/debug ativa as mensagens de debug como
 qstr_Keys_Configuration|Teclas de Configuração
 qstr_Press_Esc_to^^Disabl|Pressione Esc para^^Desativar uma tecla
 qstr_DeathCam_Mouse_Sensi|Câmera da Morte - Sensividade do Mouse
-qstr_OK|OK
 qstr_Reset|Resetar
 qstr_Default|Padrão
 qstr_Mod_Options|Opções do Mod
@@ -557,6 +581,7 @@ qstr_Commoner___Hunter|Plebeu - Caçador
 qstr_Peasant___Rebellion_|Camponês - Líder de Rebelião
 qstr_Commoner___Beggar|Plebeu - Mendigo
 qstr_Bandit___Leader|Bandido - Líder
+qstr_Rudiarius___Prize_Fi|Rudiarius - Lutador premiado
 qstr_Traveling_to?|Viajando para?
 qstr_Sarranid_Sultanate|Sultanato Sarranide
 qstr_Rhodok_Republic|República Rhodok
@@ -785,7 +810,8 @@ qstr_+1_to_{s1}_+1_to_loo|+1 de {s1}, +1 de pilhagem
 qstr_engineering|engenharia
 qstr_path_finding_&_spott|exploração & detecção
 qstr__3_to_{s1}_+30_to_mo|-3 de {s1}, +30 de moral
-qstr_Adds_6_inventory_slo|Aumenta 6 espaços no inventário.
+qstr_+3_to_{s1}|+3 de {s1}
+qstr_ironflesh|saúde
 qstr_+2_to_{s1}|+2 de {s1}
 qstr_Move_here|Mover aqui
 qstr_View_notes|Ver notas
@@ -1031,6 +1057,7 @@ qstr_none|nenhum
 qstr_{s1}_{s2}^Reputation|{s1}, {s2}^Reputação: {s42}^Nascido em {s43}^Contato em {s44} de {s45}.^^{reg48?Atualmente prisioneiro do {s48}:}^Dias desde a última interação: {reg49}^^Missão atual:^  {s50}{reg50?, volta em {reg50} dias.:}
 qstr_{s1}^|{s1}^
 qstr_{s0}_Trade_Ledger_Ar|{s0} Ordem de Registro de Comércio
+qstr_{s6}_has_left_your_p|{s6} saiu do seu grupo.
 qstr_DEBUG_:_attack_of_{s|DEBUG : ataque de {s8} é {reg0}({reg11}), prs:{reg7}, pow:{reg8}, dis:{reg9}, lst:{reg10}
 qstr__knows_of_you| conhece você
 qstr_{s1}_wife_of_{s3}{re|{s1}, esposa do {s3}{reg0?,{s60}:}
@@ -1078,6 +1105,7 @@ qstr_Lordly|de Qualidade Senhorial
 qstr_Broken|em Destroços
 qstr_Bent|com Dobras
 qstr_Chipped|com Lascas
+qstr_Fine|Multar
 qstr_Strong|Forte
 qstr_Balanced|com Bom Balanço
 qstr_Tempered|com Boa Têmpera
@@ -1438,7 +1466,7 @@ qstr_The_enemy_has_been_f|O inimigo foi obrigado a se retirar. O assalto foi con
 qstr_As_you_approach_you_|À medida que se aproxima no lombo de seu fiel cavalo, você é avistado e reconhecido pelos guardas do castelo, que lhe dão as boas vindas e abrem os portões para {seu/sua} {s10}.
 qstr_As_you_approach_you_a|À medida que se aproxima no lombo de seu fiel cavalo, você é avistado e reconhecido pelos guardas do castelo, que lhe dão as boas vindas e abrem os portões para {seu rei/sua rainha}.
 qstr_As_you_approach_you_ar|À medida que se aproxima no lombo de seu fiel cavalo, você é avistado e reconhecido pelos guardas do castelo, que lhe dão as boas vindas e abrem os portões para {seu senhor/sua senhora}.
-qstr_{s8}_of_{s9}_{s61}_t|{s8} de {s9}, {s61} a você ({reg0})
+qstr_{s8}_of_{s9}_who_is_|{s8} de {s9}, que é {s61} em sua direção ({reg0})
 qstr_{s22}_and_{s21}|{s22} e {s21}
 qstr_{reg0?Its_improvement|{reg0?As melhorias são:A melhoria é} {s21}.
 qstr_{s25}_They_are_curre|{s25} Atualmente estão construindo {s24}, A construção estará completa em {reg8} dia{reg9?s:}.
@@ -1485,6 +1513,7 @@ qstr_You_are_at_{s2}.|Você está em {s2}.
 qstr__This_castle_has_no_| Este castelo carece de guarnição.
 qstr__The_banner_of_your_| O estandarte de sua {s11} {s7} ondeia sobre os portões da cidade.
 qstr__This_town_has_no_ga| Esta cidade carece de guarnição.
+qstr_{s8}_of_{s9}_is_{s61|{s8} de {s9} é {s61} em sua direção ({reg0})
 qstr__You_have_successful| Você foi capaz de passar sem que lhe detectassem.
 qstr_{s13}_A_tournament_w|{s13} Em breve será celebrado um torneio aqui.
 qstr___{reg1}_denars_per_| ({reg1} denares por noite)
@@ -1645,7 +1674,7 @@ qstr_You_keep_working_har|Você continua o trabalho duro na aldeia...
 qstr_Your_hard_village_wo|Seu trabalho duro termina.
 qstr_You_have_broken_off_y|Você quebrou a pilhagem de {s1}.
 qstr_{reg0}.{reg1}|{reg0}.{reg1}
-qstr_PBOD_Updated_to_vers|PBOD Atualizado para a versão 0.{s1}
+qstr_PBOD_Updated_to_vers|ODPB Atualizado para a versão 0.{s1}
 qstr_{s5}_has_decided_to_|{s5} decidiu conceder {s4} para outro senhor do {s7}.
 qstr_A_livestock_epidemic|Uma epidemia matou {reg4} gados em {s4}.
 qstr_Riot_in_{s6}!|Revolta em {s6}!
@@ -2001,10 +2030,6 @@ qstr_I_can_smell_a_fat_pu|Posso farejar uma bolsa cheia de longe. Creio que a su
 qstr_Why_it_be_another_tr|Ora ora, se não é outr{o/a} viajante! Que coincidência nos encontrarmos por aqui! Devo adverti-l{o/a} de que estas áreas são um pouco perigosas para {um homem/uma mulher} como você. Mas por um pequeno donativo, meus rapazes e eu podemos nos assegurar de que chegue {são e salvo/sã e salva} ao seu destino, hã?
 qstr_Well_well_look_at_th|Bem, bem, olha só! É melhor que comece a soltar o ouro, {amigo/amiga}... ou meus rapazes e eu teremos que lhe dar uma lição.
 qstr_There_s_a_toll_for_p|Para passar por aqui você tem que pagar uma passagem. Por isso, se não se importa, tomaremos a liberdade de tomá-la em sua bolsa...
-qstr_Another_fool_come_to|{Outro tolo/Outra tola} que quer morrer pelas minhas mãos, hã? Pois bem, vamos lutar!
-qstr_We_re_not_afraid_of_|Você não me assusta, {porco/bruxa}. Partirei sua cabeça!
-qstr_That_was_a_mistake._|Você cometeu um erro. Agora terei que lhe dar uma morte lenta e dolorosa.
-qstr_Brave_words._Let_s_s|Valentes palavras. Veremos como as demonstra com feitos, {cachorro/cachorra}!
 qstr_your_lordship|seu domínio
 qstr_Plain|Simples
 qstr_Please_note_that_thi|Veja, tenha em mente que esse refinamento fará a arma causar mais dano, porém também poderá deixá-la mais lenta.
@@ -2017,3 +2042,4 @@ qstr_{s3}_and_{s5}|{s3} e {s5}
 qstr_{reg20?We_mostly_pro|{reg20?Aqui nós produzimos de tudo... {s5}:Atualmente não produzimos quase nada}. Se quiser saber mais, você pode falar com o nosso {reg4?mestre da guilda:ancião}. Ele está bem ali.
 qstr_You_gained_2_renown.|Você ganhou 2 de renome.
 qstr_Your_controversy_has|Sua controvérsia aumentou em 4.
+qstr_{s21}_has_joined_you|{s21} se juntou ao seu grupo

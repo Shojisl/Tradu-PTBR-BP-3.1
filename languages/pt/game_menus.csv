@@ -1,4 +1,4 @@
-lockitver|DO NOT DELETE THIS LINE! Tradução PTBR - 2015-2021 - by Cláudio Vieira e Evandro Neto
+lockitver|DO NOT DELETE THIS LINE! Tradução PTBR - 2015-2023 - by Cláudio Vieira e Evandro Neto
 menu_start_game_0|Terminal
 menu_start_phase_2|Você já ouviu falar muito sobre Calradia. Uma terra dividida entre reinos rivais que buscam a supremacia, um refúgio para cavaleiros e mercenários, assassinos e aventureiros, todos dispostos a arriscar suas vidas em busca de fortuna, poder, ou glória... Nesta terra cheia de perigos e oportunidades você acredita que pode deixar seu passado para trás e começar uma nova vida. Parece sentir que a chave de seu destino está agora em suas mãos, você é livre para escolher e, seja qual for o seu caminho, grandes aventuras {o/a} esperam. Atraíd{o/a} pelas histórias que havia escutado sobre Calradia e seus reinos, você...
 mno_town_1|Une-se a uma caravana para Praven, no Reino da Swadia.
@@ -8,10 +8,10 @@ mno_town_4|Embarca em um navio para Sargoth, no Reino do Norte.
 mno_town_5|Embarca em um navio para Jelkala, no Reino Rhodok.
 mno_town_6|Une-se a uma caravana para Shariz, no Sultanato Sarranide.
 menu_start_game_3|Escolha seu cenário:
-mno_go_back|Retornar
+mno_go_back_m2|Retornar
 menu_tutorial|Você se aproxima de um campo onde os habitantes locais treinam com armas. Aqui poderá praticar para melhorar suas habilidades de combate.
-mno_continue|Continuar...
-mno_go_back_dot|Retornar.
+mno_continue_m8|Continuar...
+mno_go_back_dot_m3|Retornar.
 menu_reports|{s9}Renome: {reg5}^Honra: {reg6}{s12}^^{s27}^Moral do Exército: {reg8}^Limite de Tropas: {reg7}^{s1}
 mno_view_affiliated_family_report|Ver relatório dos membros afiliados à família / cônjuge.
 mno_show_personal_affairs_report|Ver agenda pessoal.
@@ -21,6 +21,7 @@ mno_show_reference_materials|Ver materiais de referência importantes.
 mno_resume_travelling|Seguir viagem.
 menu_custom_battle_scene|(NO TRANS)
 menu_custom_battle_end|A batalha está terminada. {s1} Seu lado matou {reg5} inimigos e perdeu {reg6} tropas na batalha. Pessoalmente, você matou {reg7} homens.
+mno_continue_m7|Continuar.
 menu_start_game_1|Escolha o gênero do seu personagem.
 mno_start_male|Masculino
 mno_start_female|Feminino
@@ -37,6 +38,7 @@ mno_apprentice|Como aprendiz de artesão.
 mno_stockboy|Como ajudante em uma tenda.
 mno_urchin|Fazendo travessuras.
 mno_nomad|Nas estepes.
+mno_go_back_m3|Volte.
 menu_start_character_3|{s11}^^Então, como sempre acontece, sua vida mudou ao chegar na adolescência. Você tornou-se...
 mno_squire|Um escudeiro.
 mno_lady|Uma dama de honra.
@@ -63,14 +65,17 @@ menu_character_report|{s9}
 menu_party_size_report|{s1}
 menu_faction_relations_report|{s1}
 menu_camp|Você levantou um acampamento. O que deseja fazer?^^ Por favor não esqueça de olhar todas as opções!^Obrigado.
-mno_camp_action|Empreender uma ação.
+mno_camp_action_m2|Empreender uma ação.
+mno_dplmc_camp_preferences|Preferências do BannerPage.
 mno_action_prebattle_mod_preferences|Configurações do PreBattle Orders & Deployments.
 mno_action_prebattle_custom_divisions|Gerenciar atribuições e divisões de tropas.
-mno_dplmc_camp_preferences|Preferências do BannerPage.
 mno_camp_cheat|MENU DE TRAPAÇAS!
 mno_camp_mod_opition|Configurações do Sistema de Torneios
+mno_dplmc_camp_manage_inventory|Gerenciar configurações de auto-pilhagem.
+mno_dplmc_camp_manage_inventory_disabled|Auto-pilhagem requer Administração do inventário ou Pilhagem no nível 2.
 menu_camp_cheat|Selecione uma trapaça:
-mno_camp_cheat_find_item|Encontrar um item...
+mno_camp_cheat_find_item_m2|Encontrar um item...
+mno_camp_cheat_find_item_m1|Mudança de clima.												 
 menu_tc_cheat_menu|Selecione uma trapaça:
 menu_camp_action|Escolha uma ação:
 mno_action_walk_around|Caminhar ao redor, inspecionar o terreno ou as tropas.
@@ -81,13 +86,13 @@ mno_action_manage_outposts|Construir um esconderijo.
 mno_action_view_trade_ledger|Ver diário de comércio.
 mno_action_view_trade_ledger_denied|Para iniciar um Diário de Comércio dê uma olhada nos preços do comércio local.
 mno_camp_manage_bookcase|Gerenciar biblioteca.
-mno_dplmc_camp_manage_inventory|Gerenciar configurações de auto-pilhagem.
-mno_dplmc_camp_manage_inventory_disabled|Auto-pilhagem requer Administração do inventário ou Pilhagem no nível 2.
+mno_action_sort_troops|Classificar tropas.
 mno_jump_more_actions|Avançar para menu de Ações do Acampamento II.
-mno_camp_action_4|Voltar ao menu do acampamento.
+mno_camp_action_4_m3|Voltar ao menu do acampamento.
 menu_camp_recruit_prisoners|Você oferece a liberdade a seus prisioneiros, caso concordem em unir-se à sua causa como soldados. {s18}
 mno_camp_recruit_prisoners_accept|Aceitá-los.
 mno_camp_recruit_prisoners_reject|Rejeitá-los.
+mno_continue_m9|Volte.
 menu_camp_no_prisoners|Você não tem prisioneiros para recrutar.
 menu_camp_action_read_book|Escolha um livro para ler:
 mno_action_read_book_1|{s1}.
@@ -102,6 +107,7 @@ mno_action_read_book_9|{s1}.
 mno_action_read_book_10|{s1}.
 mno_action_read_book_11|{s1}.
 mno_action_read_book_12|{s1}.
+mno_camp_action_4_m2|De volta ao menu do acampamento.
 menu_camp_action_read_book_start|{s1}
 menu_retirement_verify|Hoje é o dia {reg0}. Sua sorte é {reg1}. Tem certeza de que quer se retirar?
 mno_retire_yes|Sim.
@@ -123,6 +129,7 @@ menu_arena_duel_fight|Seu oponente e você se preparam para o combate.
 menu_duel_menu|{s1}{s2}
 mno_start_fight|Começar duelo.
 mno_duel_again|Duelar novamente.
+mno_leave_m2|Sair.
 menu_simple_encounter|{s2} Você possui {reg10} soldados aptos para combater as {reg11} tropas inimigas.
 mno_deployment|Escolher quem se juntará à batalha.
 mno_orders|Planejar o combate contra o inimigo.
@@ -172,6 +179,7 @@ mno_pre_join_leave|Não se envolver.
 menu_join_battle|Você ajuda {s2} a combater {s1}. Você possui {reg10} soldados aptos para a batalha contra as {reg11} tropas inimigas.
 mno_join_attack|Avançar contra o inimigo.
 mno_commander_change_join_battle|Mudar comandante. (Atual: {s7})
+mno_join_attack_m2|Carregar!
 mno_join_order_attack|Ordenar a seus soldados para atacar com seus aliados enquanto você mantém distância.
 mno_join_leave|Deixar.
 mno_join_wounded|Você está muito ferido para lutar.
@@ -187,13 +195,23 @@ mno_zendar_arena|
 mno_zendar_arena_door|Arena
 mno_town_1_leave| 
 menu_salt_mine|Você está no acampamento de mineração de Barezan.
-mno_enter|Entrar.
+mno_enter_m1|Aproxime-se do acampamento.
 mno_talk_merchant|Falar com Barezan.
 mno_talk_merchant_door|Sair do acampamento.
 mno_add_prisoners|Colocar prisioneiros para trabalhar nas minas{s1}.
 menu_slave_labor|{s1}
 menu_four_ways_inn|Você chega à taverna As Quatro Direções.
+mno_enter_m3|Digitar
 menu_test_scene|Você entra no cenário de testes.
+mno_enter_m4|Digitar 1.
+mno_enter_m5|Digitar 2.
+mno_enter_m6|Digitar 3.
+mno_enter_m7|Digitar 4.
+mno_enter_m8|Digitar 5.
+mno_enter_m9|Digitar 6.
+mno_enter_m10|Digitar 7.
+mno_enter_m11|Digitar 8.
+mno_enter_m12|Digitar 9.
 menu_dhorak_keep|Você chega ao Forte Dhorak.
 menu_join_siege_outside|{s1} está sob o cerco de {s2}.
 mno_approach_besiegers|Aproximar-se do campo de cerco.
@@ -315,17 +333,20 @@ mno_village_perform_basic_work|Pedir pelas redondezas por qualquer trabalho disp
 mno_village_ask_help|Ir de porta em porta e pedir por qualquer ajuda para sua causa.
 mno_village_leave|Deixar...
 menu_village_basic_work|{s3}
+mno_continue_m6|Continuar
 menu_village_hostile_action|Que ação tem em mente?
 mno_village_take_food|Forçar os camponeses a dar-lhe suprimentos.
 mno_village_steal_cattle|Roubar gado.
-mno_village_loot|Saquear a aldeia e arrasá-la.
+mno_village_loot_m1|Saquear a aldeia e arrasá-la.
 mno_enslave_villagers|Escravisar os aldeões.
 menu_recruit_volunteers|{s18}
-mno_continue_not_enough_gold|Não tenho dinheiro suficiente...
-mno_recruit_them|Recrutá-los ({reg6} denares).
+mno_continue_not_enough_gold_m1|Não tenho dinheiro suficiente...
+mno_recruit_them_m1|Recrutá-los ({reg6} denares).
 menu_recruit_volunteers1|Seus homens tiram todos os aldeões de suas casas a força.
-mno_let_them_keep_it|Desistir de tomá-los.
+mno_let_them_keep_it_m1|Desistir de tomá-los.
 menu_recruit_volunteers2|{s18}
+mno_continue_not_enough_gold_m2|Não tenho dinheiro suficiente para equipá-los.
+mno_recruit_them_m2|Pegue-os e dê-lhes um salário semanal adiantado. Total: ({reg5} denars).
 menu_village_hunt_down_fugitive_defeated|Um forte golpe do fugitivo lhe faz cair ao solo, sua visão fica turva e você perde a consciência. O tempo passa. Ao abrir seus olhos novamente, você percebe que se encontra sangrando de múltiplas feridas, mas felizmente não parecem ser letais.
 menu_village_infest_bandits_result|{s9}
 menu_village_infestation_removed|Em uma batalha épica, você e seus homens conseguem expulsar os bandidos da aldeia, recuperando a paz novamente. Os camponeses já não possuem muitos bens depois de tal provação, mas lhe oferecem tudo o que podem encontrar.
@@ -358,14 +379,16 @@ menu_village_take_food_confirm|Será difícil forçar e ameaçar os camponeses p
 mno_village_take_food_confirm|Começar.
 menu_village_take_food|Os camponeses relutantemente aceitam dar-lhe suas posses.
 mno_take_supplies|Tomar os suprimentos.
+mno_let_them_keep_it_m2|Deixe-os mantê-lo.
 menu_village_start_attack|Alguns dos camponeses irritados agarram suas ferramentas e se preparam para a resistência. Parece que você terá uma batalha em suas mãos se continuar com seus planos.
 mno_village_raid_attack|Atacar.
 mno_village_raid_leave|Deixar a aldeia em paz.
 menu_village_loot_no_resist|Os camponeses são poucos e estão assustados. Eles rapidamente partem em fuga e se dispersam. A aldeia agora está em suas mãos.
+mno_village_loot_m2|Saqueie a vila e depois a destrua.
 menu_village_loot_complete|Você ordena a suas tropas para saquear a aldeia, tomar tudo de valor e em seguida atear fogo às casas. Das moedas e objetos de valor encontrados, sua parte é {reg1} denares.
 menu_village_loot_defeat|Lutando com coragem e determinação, os camponeses são capazes de suportar o ataque e repelir suas forças.
 menu_village_loot_continue|Deseja continuar saqueando a aldeia?
-mno_disembark_yes|Sim.
+mno_disembark_yes_m2|Sim.
 mno_disembark_no|Não.
 menu_close|Nada.
 menu_town|{s10} {s14}^{s11}{s12}{s13}
@@ -416,13 +439,14 @@ mno_visit_lady_5|Visitar a {s12}
 mno_visit_lady_6|Visitar a {s12}
 mno_visit_lady_7|Visitar a {s12}
 mno_visit_lady_8|Visitar a {s12}
+mno_leave_m1|Sair.
 menu_town_tournament_lost|Você foi eliminado do torneio.{s8}
 menu_town_tournament_won|Você ganhou o torneio de {s3}! Os espectadores se levantam e você sente um profundo orgulho enquanto todos gritam seu nome. Além da honra, fama e glória, você também ganha um prêmio de {reg9} denares. {s8}
 menu_town_tournament_won_by_another|Sendo a única pessoa invicta hoje, {s1} ganha os prêmios e a glória deste torneio.
 menu_town_tournament|{s1}Você se encontra no nível {reg0} do torneio, restando ainda {reg1} participantes. Na próxima rodada, haverá {reg2} equipes, cada uma com {reg3} {reg4?lutadores:lutador}.
 mno_tournament_view_participants|Ver participantes.
-mno_tournament_bet|Apostar em sua pessoa.
-mno_tournament_join_next_fight|Lutar na próxima rodada.
+mno_tournament_bet_m2|Apostar em sua pessoa.
+mno_tournament_join_next_fight_m2|Lutar na próxima rodada.
 mno_leave_tournament|Retirar-se do torneio.
 menu_tournament_withdraw_verify|Tem certeza que quer se retirar do torneio?
 mno_tournament_withdraw_yes|Sim. Isto não faz sentido.
@@ -458,6 +482,7 @@ mno_peasants_against_bandits_attack_resist|Preparar para a batalha!
 menu_train_peasants_against_bandits_attack_result|{s9}
 menu_train_peasants_against_bandits_success|Os bandidos foram derrotados! Os poucos que restam estão fugindo com o rabo entre as pernas, aterrorizados pelos camponeses e seu novo campeão. Pouco restou aos aldeões após tal provação, mas eles lhe oferecem tudo o que encontram como forma de gratidão.
 menu_disembark|Deseja desembarcar?^^ Não desembarque em penhascos, a menos que queira ficar preso.
+mno_disembark_yes_m1|Pouse a nave e deixe-a aqui por enquanto.
 mno_disembark_yes_2|Atracar no porto.
 mno_manage_crew|Gerenciar a tripulação.
 mno_disembark_yes_3|Sim, mas envie o barco para o porto.
@@ -477,12 +502,15 @@ menu_center_reports|Nome da cidade: {s1}^Rendimento por rendas: {reg1} denares^R
 mno_to_price_and_productions|Mostrar preços e produtos.
 menu_price_and_production|Produção:^(Nota: base/modificação por matérias-primas/modificação por materiais e prosperidade)^{s1}^^Os fatores de preços são:^{s2}
 menu_town_trade|Você se dirige ao mercado.
-mno_auto_sell|Vender itens automaticamente.
 mno_assess_prices|Avaliar os preços locais.
 mno_trade_with_arms_merchant|Negociar com o mercador de armas.
+mno_weaponsmith_meeting_denied|Você ainda não conheceu o comerciante de armas.
 mno_trade_with_armor_merchant|Negociar com o mercador de armaduras.
+mno_armorer_meeting_denied|Você ainda não conheceu o mercador de armaduras.
 mno_trade_with_horse_merchant|Negociar com o mercador de cavalos.
+mno_horse_merchant_meeting_denied|Você ainda não conheceu o mercador de cavalos.
 mno_trade_with_goods_merchant|Negociar com o mercador de bens.
+mno_auto_sell|Vender itens automaticamente.
 mno_auto_buy_food|Comprar comida automaticamente.
 mno_back_to_town_menu|Retornar.
 menu_dplmc_trade_auto_sell_begin|Os itens no seu inventário cujo tipo esteja marcado para venda e que o preço esteja abaixo de {reg1} denares, serão vendidos automaticamente ao {reg2?vendedor apropriado:ancião} na atual {reg2?cidade:aldeia}. Especificamente, comidas, bens de comércio e livros nunca serão vendidos. ^^Você pode alterar algumas configurações livremente aqui.
@@ -510,6 +538,7 @@ mno_camp_train_melee_num_men_1|Um.
 mno_camp_train_melee_num_men_2|Dois.
 mno_camp_train_melee_num_men_3|Três.
 mno_camp_train_melee_num_men_4|Quatro.
+mno_go_back_dot_m2|Cancelar.																			
 menu_training_ground_selection_details_melee_2|Escolha seu oponente #{reg1}:
 mno_training_ground_selection_details_melee_random|Escolher aleatoriamente.
 menu_training_ground_selection_details_mounted|Com que tipo de arma deseja treinar?
@@ -612,9 +641,13 @@ menu_notification_faction_defeated|Facção eliminada^^O {s1} não existe mais!
 menu_notification_rebels_switched_to_faction|Sucesso da rebelião^^ Sua rebelião saiu vitoriosa! Sua facção tem o legítimo e indiscutível direito para reclamar o trono do {s11}, com o {s12} como seu único soberano.
 menu_notification_player_should_consult|{reg0?Seu ministro:{s11}} envia-lhe uma carta na qual afirma que existem problemas no reino que, se deixados de lado, poderiam abater a sua autoridade. Você deve consultá-lo o mais rápido possível.
 menu_notification_player_feast_in_progress|Banquete em preparação^^{Sua esposa/Seu marido} iniciou os preparativos para celebrar um banquete em seu salão em {s11}.
-menu_notification_lady_requests_visit|Uma criada anciã aproxima-se de seu exército e entrega uma carta a um dos seus homens, selada com cera comum. Está dirigida a você. Você rompe o selo que a lacra, observa que vem de {s15} e lê... "Gostei muito da sua última visita. {s14} Atualmente me encontro em {s10}.{s12}"
+menu_notification_lady_requests_visit|Uma criada anciã aproxima-se de seu exército e entrega uma carta a um dos seus homens, selada com cera comum. Está dirigida a você. Você rompe o selo que a lacra, observa que vem de {s15} e lê... "Gostei muito da sua última visita. {s14} Atualmente me encontro em {s10}.{s12}
+mno_continue_m13|Diga à mulher para informar a patroa que você virá em breve
+mno_continue_m12|Diga à mulher para informar a patroa que você está indisposto
 menu_garden|{s12}
-mno_nurse|Acompanhar a criada.
+mno_enter_m2|Digitar
+mno_nurse_m1|Vá com a enfermeira
+mno_nurse_m2|Espere pela primavera
 menu_kill_local_merchant_begin|Você encontra sua vítima e a segue, observando como ela vira para uma viela escura. Seguramente esta será a melhor oportunidade que tenha para atacar.
 menu_bar_brawl_begin|Um garoto vem correndo rua abaixo até você. "{Senhor! Senhor!/Milady!}" ele grita. "Os troublemakers sairam da taverna e estão vindo. Prepare-se!
 menu_debug_alert_from_s65|DEBUG ALERT: {s65}
@@ -631,6 +664,7 @@ mno_decline|Recusar a honra.
 menu_lost_tavern_duel|{s11}
 menu_establish_court|Para estabelecer sua corte em {s4} serão necessárias certas reformas. Você precisará principalmente de um jogo de ferramentas e um rolo de veludo. Também levará algum tempo até que todos os seus seguidores se transfiram para cá. Deseja continuar?
 mno_establish|Estabelecer sua corte em {s4} 
+mno_continue_m10|Espere...
 menu_notification_relieved_as_marshal|{s4} deseja informá-l{o/a} de que seus serviços como marechal já não são necessários. Para honrar seus valorosos esforços a favor do reino nos últimos {reg4} dias, contudo, {reg8?ela:ele} lhe oferece uma bolsa com {reg5} denares.
 menu_notification_give_liege_gift|Um garoto mensageiro, cavalga rapidamente até você. Ele para e gira seu cavalo, com as patas impacientemente batendo no chão. Ele lhe entrega um pacote e, assim, vai embora.
 menu_notification_of_nemesis|Uma tênue nuvem de poeira no horizonte gradualmente se materializa na forma de um mensageiro montado em um corcel. Ele grita ao se aproximar, "{Milorde/Milady}, trago uma mensagem urgente do Mestre Espião de Praven. Diz, "Saudações, {playername}. Chegou até mim a notícia de que um dos senhores menores, em uma tentativa de fazer um nome para si mesmo, contratou alguns mercenários para rastreá-l{o/a}. Esteja alerta para o perigo." Com isso, o mensageiro espora seu cavalo e vai embora.
@@ -649,7 +683,7 @@ menu_dplmc_auto_loot|Seus herois se equiparão automaticamente com os objetos da
 mno_dplmc_autoloot_no|Não, eu mudei de ideia.
 mno_dplmc_autoloot_yes|Sim, realizar a melhoria.
 menu_dplmc_notification_alliance_declared|Acordo de Aliança^^{s1} e {s2} formaram uma aliança!^{s57}
-mno_dplmc_continue|Continuar...
+mno_dplmc_continue_m2|Continuar...
 menu_dplmc_notification_defensive_declared|Pacto Defensivo^^{s1} e {s2} formaram um pacto de defesa!^{s57}
 menu_dplmc_notification_trade_declared|Acordo Comercial^^{s1} e {s2} firmaram um acordo comercial!^{s57}
 menu_dplmc_notification_nonaggression_declared|Tratado de Não-agressão^^{s1} e {s2} firmaram um tratado de não-agressão!^{s57}
@@ -666,6 +700,7 @@ menu_dplmc_question_nonaggression_offer|Você Recebeu uma Oferta de Tratado de N
 mno_dplmc_nonaggression_offer_accept|Aceitar
 mno_dplmc_nonaggression_offer_reject|Recusar
 menu_dplmc_notification_alliance_expired|Uma Aliança Expirou^^A aliança entre o {s1} e {s2} expirou e reduziu-se a um pacto defensivo.
+mno_dplmc_continue_m1|Continuar
 menu_dplmc_notification_defensive_expired|Um Pacto Defensivo Expirou^^O pacto de defesa entre o {s1} e {s2} expirou e reduziu-se a um acordo comercial.
 menu_dplmc_notification_trade_expired|Um Acordo Comercial Expirou^^O acordo comercial entre o {s1} e {s2} expirou e reduziu-se a um tratado de não-agressão.
 menu_dplmc_dictate_terms|Ditar seus termos de paz.
@@ -680,17 +715,17 @@ menu_dplmc_town_riot_removed|Em uma sangrenta batalha, você e seus homens massa
 menu_dplmc_riot_negotiate|Você se aproxima da multidão furiosa e começa a negociar. O líder da revolta demanda {reg0} denares. Ele concorda em largar as armas se você estiver disposto a pagar tal valor.
 mno_dplmc_pay_riot_treasury|Dizer ao tesoureiro que pague com o dinheiro do tesouro.
 mno_dplmc_pay_riot_cash|Pagar com seu dinheiro.
-mno_dplmc_back|Voltar...
+mno_dplmc_back_m1|Voltar...
 menu_dplmc_notification_riot|Os camponeses de {s1} se revoltaram contra você! Em um ataque surpresa, homens leais a você foram assassinados. O restante se uniu à multidão enfurecida.
 menu_dplmc_notification_appoint_chamberlain|Como senhor de um feudo você pode nomear um tesoureiro que residirá em sua corte por um salário semanal de 15 denares. Ele se encarregará de todos os assuntos financeiros, como o recolhimento e a fixação da taxa de impostos, pagamento de salários e a gestão do seu patrimônio. Ademais, supervisionará as transferências de dinheiro entre reinos, dando a você mais opções diplomáticas.
 mno_dplmc_appoint_default|Nomear um proeminente nobre da região.
-mno_dplmc_continue_1|Proceder sem um tesoureiro.
-mno_dplmc_continue_2|Proceder sem um comissário.
-mno_dplmc_continue_3|Proceder sem um chanceler.
+mno_dplmc_continue_m3|Proceder sem um tesoureiro.
 menu_dplmc_chamberlain_confirm|Você encontrará o tesoureiro em sua corte. Consulte-o se quiser conselhos sobre algum tema financeiro ou caso precise de mais dinheiro. Você deverá sempre se assegurar de que haja dinheiro suficiente no tesouro para tomar algumas decisões políticas.
 menu_dplmc_notification_appoint_constable|Como senhor de um feudo, você pode nomear um comissário que residirá em sua corte por um salário semanal de 15 denares. Ele recrutará novas tropas e proverá informações sobre seu exército.
+mno_dplmc_continue_m5|Proceder sem um comissário.
 menu_dplmc_constable_confirm|Você encontrará o comissário em sua corte. Consulte-o se quiser recrutar mais tropas ou obter informações detalhadas sobre seu exército.
 menu_dplmc_notification_appoint_chancellor|Como senhor de um feudo, você pode nomear um chanceler que residirá em sua corte por um salário semanal de 20 denares. Ele será encargado das correspondências entre você e outras pessoas importantes.
+mno_dplmc_continue_m4|Proceder sem um chanceler.
 menu_dplmc_chancellor_confirm|Você encontrará o chanceler em sua corte. Consulte-o se quiser enviar mensagens ou presentes.
 menu_dplmc_deserters|Alguns dos seus homens não acreditam que você possa pagar seus salários e por isso desertaram. Perda total: {s11} homens.
 menu_dplmc_negotiate_besieger|Você aparece com uma bandeira branca no alto do muro. Depois de um tempo, um negociador de {s11} se aproxima. Ele demanda {s6} e todas as aldeias associadas, bem como {reg0} denares de salvo conduto.
@@ -703,19 +738,23 @@ menu_dplmc_domestic_policy|Agora você pode eleger a política interna do seu re
 mno_dplmc_yes|Sim, quero alterar a política interna.
 mno_dplmc_no|Não, eu não quero alterar a política interna.
 menu_dplmc_preferences|BannerPage Opções:
-mno_tc_disable_cheat_mode|Destaivar modo de trapaças.
-mno_tc_enable_cheat_mode|Ativar modo de trapaças.
+mno_action_exhaustion_m1| Desativar exaustão em viagens pelo mapa.
+mno_action_exhaustion_m2| Ativar exaustão em viagens pelo mapa.
+mno_perma_death_m1| Desative Perma-Morte
+mno_perma_death_m2| Habilite Perma-Morte.
+mno_slow__freelancer_m1| Desative a progressão mais lenta do Freelancer.
+mno_slow__freelancer_m2| Habilite a progressão mais lenta do Freelancer.
+mno_merchants_lock_m1| Ativar - Todos os comerciantes e Anciões se encontraram.
+mno_merchants_lock_m2| Desativar - Todos os comerciantes e Anciões se encontraram.
+mno_action_no_random_events_m1| Desativar eventos aleatórios.
+mno_action_no_random_events_m2| Ativar eventos aleatórios.
+mno_action_no_random_events_box_m1| Mostrar eventos aleatórios como mensagens.
+mno_action_no_random_events_box_m2| Mostrar eventos aleatórios em Caixa de Texto.
 mno_tc_set_invasion|Definir quando a invasão dos Cavaleiros Negros começa.
-mno_action_no_random_events| Desativar eventos aleatórios.
-mno_action_no_random_events_1| Ativar eventos aleatórios.
-mno_action_no_random_events_box| Mostrar eventos aleatórios como mensagens.
-mno_action_no_random_events_box_1| Mostrar eventos aleatórios em Caixa de Texto.
-mno_action_exhaustion| Desativar exaustão em viagens pelo mapa.
-mno_action_exhaustion_1| Ativar exaustão em viagens pelo mapa.
-mno_prisoner_violence| Desativar estupro de prisioneiras.
-mno_prisoner_violence_1| Ativar estupro de prisioneiras.
-mno_dplmc_disable_horse_speed|Desativar a redução de velocidade do cavalo ferido.
-mno_dplmc_enable_horse_speed|Ativar a redução de velocidade do cavalo ferido.
+mno_prisoner_violence_m1| Desativar estupro de prisioneiras.
+mno_prisoner_violence_m2| Ativar estupro de prisioneiras.
+mno_dplmc_disable_horse_speed_m1|Desativar a redução de velocidade do cavalo ferido.
+mno_dplmc_enable_horse_speed_m2|Ativar a redução de velocidade do cavalo ferido.
 mno_dplmc_disable_terrain_advantage|Desativar a vantagem de terreno no Cálculo de Batalhas (atualmente essa opção está Ativada).
 mno_dplmc_enable_terrain_advantage|Ativar a vantagem de terreno no Cálculo de Batalhas (atualmente essa opção está Desativada).
 mno_dplmc_reset_terrain_advantage|Você usou um jogo salvo de outro mod: g dplmc terrain advantage = {reg0} (clique para resetar)
@@ -736,15 +775,17 @@ mno_dplmc_switch_woman_prejudice_1|Alterar o nível de preconceito contra mulher
 mno_dplmc_switch_woman_prejudice_2|Alterar o nível de preconceito contra mulheres (atualmente Desativado)
 mno_dplmc_switch_woman_prejudice_3|Alterar o nível de preconceito contra mulheres (o nível atual é Alto)
 mno_tc_jump|Ir para o menu de opções do Pre-Battle Orders & Deployment.
+mno_dplmc_back_m3|Volte...
 menu_dplmc_affiliated_family_report|{s0}
-mno_lord_relations|Ver lista de lordes conhecidos segundo relação.
+mno_lord_relations_m2|Ver lista de lordes conhecidos segundo relação.
 menu_dplmc_start_select_prejudice|Na sociedade medieval tradicional retratada no jogo, a guerra e a política geralmente são dominadas pelos membros masculinos da nobreza. Por causa disso, um personagem feminino pode enfrentar um preconceito inicial, e algumas oportunidades abertas aos homens não estarão disponíveis (embora uma mulher também tenha algumas oportunidades que um homem não terá). Alguns jogadores podem achar isso desagradável, então se quiser, pode ignorar esse aspecto da sociedade em Calradia.^^Você pode mudar de ideia mais tarde através das opções no menu de Acampamento.
 mno_dplmc_start_prejudice_yes|Eu não me importo em encontrar sexismo.
 mno_dplmc_start_prejudice_no|Eu prefiro não encontrar sexismo.
 menu_dplmc_economic_report|{s0}
+mno_dplmc_back_m2|Volte...
 menu_port|Você visita o porto de {s1}. Enquanto olha ao redor, o forte vento do oceano sopra contra suas roupas. Muitos barcos estão ancorados aqui e você nota uma tripulação carregando um deles com bens nativos, enquanto um grupo de homens descarrega outro.^Um deles parece ser o responsável pelo porto, então você vai até ele e pede por ajuda. Ele olha para você e diz:^O que você quer, {rapaz/moça}? Não vê que estou ocupado?
 mno_Buy_a_ship|Comprar um barco. (10000 denares)
-mno_sail_from_port|Zarpar com seu barco. (Tripulação Min. 30 - Máx. 90)
+mno_sail_from_port_m2|Zarpar com seu barco. (Tripulação Min. 30 - Máx. 90)
 mno_manage_ships|Gerenciar os barcos.
 mno_View_notes|Ver o registro dos barcos.
 menu_Ship_notes|A guilda real dos mercadores mantém registro de todos os barcos nos portos das cidades. Ver o registro lhe mostrará onde seus barcos estão atracados.^{s3}
@@ -756,11 +797,6 @@ mno_ship_4|{s1}
 mno_ship_5|{s1}
 menu_upgrade_to_hero|Você nota que um ou mais de seus guerreiros se destacam além de suas expectativas em batalha.^Você caminha por entre as linhas de formação e...
 mno_hero_1|começa a falar com {s1}
-mno_hero_2|começa a falar com {s1}
-mno_hero_3|começa a falar com {s1}
-mno_hero_4|começa a falar com {s1}
-mno_prev|ir para as linhas anteriores
-mno_next|ir para as próximas linhas
 mno_close|sair
 menu_export_import_npcs|Por favor escolha um NPC, então pressione C para visualizar e exportar/importar esse personagem.^^Você escolheu {reg0?{s0}:nenhum}.
 mno_export_import_back|Voltar
@@ -772,7 +808,7 @@ mno_export_import_npc5|{s0}
 mno_export_import_npc6|{s0}
 mno_export_import_npc7|{s0}
 mno_export_import_npc8|{s0}
-mno_export_import_next|Próximo
+mno_export_import_next_m2|Próximo
 menu_export_import_npcs_2|Por favor escolha um NPC, então pressione C para visualizar e exportar/importar esse personagem.^^Você escolheu {reg0?{s0}:nenhum}.
 mno_export_import_prev|Anterior
 mno_export_import_npc9|{s0}
@@ -851,6 +887,7 @@ mno_export_import_npc73|{s0}
 mno_export_import_npc74|{s0}
 mno_export_import_npc75|{s0}
 mno_export_import_npc76|{s0}
+mno_export_import_next_m1|Voltar para a página um
 menu_outpost|Você cruza as barricadas e entra no seu {s1}.^Aqui você está seguro e escondido, e pode descançar por um longo tempo se quiser.^^Capacidade máxima do {s1} é {s2} homens.^Isso {s3}^^O que você deseja fazer?
 mno_outpost_wait|Permanecer escondido e descançar por algum tempo.
 mno_outpost_wait_2|Permanecer escondido e descançar por algum tempo.
@@ -905,6 +942,7 @@ mno_color_no|Não.
 menu_personal_affairs_report|Tenha certeza que ninguém {o/a} viu..
 mno_view_bank_report|Seu Balanço Patrimonial.
 mno_view_relations_report|Visão geral das relações com as facções e lordes.
+mno_lord_relations_m1|Senhores conhecidos por parentesco.
 mno_companion_relations|Personagem & Companheiros.
 mno_courtship_relations|Ver as relações de cortejo.
 mno_view_duelling_report|Ver relatório de duelo.
@@ -914,17 +952,18 @@ mno_view_weekly_budget_report|Ver relatório sobre o orçamento semanal.
 mno_view_morale_report|Ver relatório da moral do exército.
 mno_view_party_size_report|Ver relatório do tamanho do exército.
 mno_view_npc_mission_report|Ver relatório de missões dos companheiros.
-mno_start|Visão geral do Exército.
 mno_view_companion_relationship_report|Ver relações dos companheiros.
+mno_start|Visão geral do Exército.
 menu_world_reports|Calradia - Atual Estado de Relações
 mno_action_view_world_map|Mapa mundo político.
 mno_view_faction_relations_report|Ver relatório de relação das facções.
 mno_view_lord_holdings|Ver propriedades e relações dos lordes.
-mno_dplmc_show_economic_report|Ver relatório de prosperidade.
+mno_action_view_world_map_m2|Mapa das explorações mundiais.
+mno_dplmc_show_economic_report_m1|Ver relatório de prosperidade.
+mno_dplmc_show_economic_report_m2|Relatório de Segurança do Estado.
 menu_reference_materials|Materiais de referência:
 mno_action_view_upgrade_trees|Ver árvore de tropas.
 mno_action_view_all_items|Ver lista de todos os itens.
-mno_back_to_reports_menu|Voltar ao menu principal.
 menu_blacksmith_forge|O ferreiro lhe cumprimenta e pede que você equipe os itens que gostaria de reparar.
 mno_slot_0|{s1} ({reg0} denares.)
 mno_slot_1|{s1} ({reg0} denares.)
@@ -941,10 +980,12 @@ mno_action_rename_kingdom|Renomear seu reino.
 mno_reset_color|Alterar a cor do reino.
 mno_camp_export_import|Exportar/importar NPCs.
 mno_action_retire|Retirar-se da aventura.
+mno_camp_action_m1|Retornar ao menu de ação do acampamento I.
 menu_recruit_nobles|{s18}
 menu_duelling_report|Os resultados dos seus duelos contra os Senhores Calradianos são:^{s4}^^{s2}
 menu_village_raid_villagers_toslaves|Todos eles começaram a correr por suas vidas.^Deseja caçar os aldeões como animais e fazê-los de escravos?
 mno_villagers_slaves|Capturem o máximo que conseguirem!
+mno_continue_m11|Não. Cancele o pedido!
 menu_village_loot_no_resist2|Apenas alguns conseguiram fugir, mas a maioria deles estão apavorados e implorando por suas vidas. A aldeia está à sua disposição.
 mno_village_loot2|Saquear a aldeia e incendiá-la.
 mno_village_enslave|Escravizar todos os aldeões.
@@ -954,6 +995,8 @@ mno_village_raid_leaveflee|Deixar a aldeia em paz.
 menu_notification_lord_death|Sentença de Morte^^{s2} do {s3} foi condenado à morte pelo {s4} do {s28}.^^{s6}
 menu_mrc_security_report|Relatório do Estado de Segurança{s3}
 mno_mrc_back|Continuar...
+menu_player_is_death|Você caiu em uma batalha sangrenta.^Seu coração parou de bater.^Os corvos negros estão dilacerando seu rosto.^Você deixou este mundo {playername}.
+mno_continue|Continuar...
 menu_world_map_soldier|O que você quer fazer, soldado?
 mno_join_commander_battle|Seguir o comandante nesta batalha.
 mno_enter_town|Entrar na cidade.
@@ -983,8 +1026,11 @@ mno_upgrade_path_2|{s67}{s0}.
 mno_upgrade_wait|Esperar até a próxima semana.
 menu_tpe_town_tournament|Torneio de {s25}^^^SITUAÇÃO:^Você se encontra no {s23} nível do torneio.{s21}^^CONFIGURAÇÕES:^{reg21} times com {reg22} {reg23?lutadores:lutador} cada.{s20}^^APOSTA ATUAL:^{s26}
 mno_tournament_options_panel|Alterar as opções do torneio.
+mno_tournament_bet_m1|Place a bet on yourself
+mno_tournament_join_next_fight_m1|Lute na próxima rodada
 mno_debug_leave_tournament|DEBUG: Sair do torneio.
 menu_tpe_jump_to_rankings|Você não deveria ver isto.  Isso deveria ser automaticamente coberto pela tela de classificação.
+mno_continue_m14|Ver classificações...
 menu_tpe_tournament_withdraw_verify|Tem certeza de que quer se retirar do torneio?
 menu_tpe_town_tournament_won_by_another|Sendo a única pessoa invicta hoje, {s1} ganha os prêmios e a glória deste torneio.
 menu_tpe_tournament_config|Este é o menu de configurações do Torneio Aprimorado.  Aqui você pode alterar as configurações do torneio da maneira que você quiser.

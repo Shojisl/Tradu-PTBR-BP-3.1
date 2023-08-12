@@ -1,4 +1,4 @@
-lockitver|DO NOT DELETE THIS LINE! Tradução PTBR - 2015-2021 - by Cláudio Vieira e Evandro Neto
+lockitver|DO NOT DELETE THIS LINE! Tradução PTBR - 2015-2023 - by Cláudio Vieira e Evandro Neto
 trp_multiplayer_profile_troop_male|perfil multiplayer masculino
 trp_multiplayer_profile_troop_male_pl|perfil multiplayer masculino
 trp_multiplayer_profile_troop_female|perfil multiplayer feminino
@@ -101,8 +101,6 @@ trp_welsh_longbowman|Arqueiro Galês de Arco Longo
 trp_welsh_longbowman_pl|Arqueiros Galeses de Arco Longo
 trp_mercenary_crossbowman|Besteiro Mercenário
 trp_mercenary_crossbowman_pl|Besteiros Mercenários
-trp_mounted_crossbowman|Besteiro Mercenário Montado
-trp_mounted_crossbowman_pl|Besteiros Mercenários Montados
 trp_balestriere_genovese|Balestriere Genovese
 trp_balestriere_genovese_pl|Balestrieri Genovesi
 trp_arbalestriere_genovese|Arbalestriere Genovese
@@ -113,6 +111,8 @@ trp_mercenary_horseman|Ginete Mercenário
 trp_mercenary_horseman_pl|Ginetes Mercenários
 trp_mercenary_cavalry|Cavaleiro Mercenário
 trp_mercenary_cavalry_pl|Cavaleiros Mercenários
+trp_condottiero|Condotiero
+trp_condottiero_pl|Condotieros
 trp_hussar|Hussardo
 trp_hussar_pl|Hussardos
 trp_cataphract|Catafractário
@@ -121,6 +121,8 @@ trp_nomad_horse_archer|Arqueiro Montado Nômade
 trp_nomad_horse_archer_pl|Arqueiro Montado Nômade
 trp_nomad_veteran_horse_archer|Turcópolo
 trp_nomad_veteran_horse_archer_pl|Turcópolos
+trp_turcopolier|Turcópolo
+trp_turcopolier_pl|Turcópolos
 trp_almogavar|Almogávar
 trp_almogavar_pl|Almogaváres
 trp_almocaden|Almocadém
@@ -129,12 +131,18 @@ trp_almogavar_a_caballo|Almogávar a Caballo
 trp_almogavar_a_caballo_pl|Almogaváres a Caballos
 trp_adalid|Adalide
 trp_adalid_pl|Adalide
+trp_iberian_slinger|Atirador Ibérico
+trp_iberian_slinger_pl|Atiradeiras Ibéricas
+trp_balearic_slinger|Atirador Balear
+trp_balearic_slinger_pl|Atiradeiras Baleares
 trp_woodcutter|Lenhador Guerreiro
 trp_woodcutter_pl|Lenhador Guerreiro
 trp_mercenary_axeman|Drengr
 trp_mercenary_axeman_pl|Drengir
 trp_joms_viking|Joms Viking
 trp_joms_viking_pl|Joms Vikings
+trp_jofurr|Jofurr
+trp_jofurr_pl|Jofrar
 trp_varangian_guard|Guarda Varangiano
 trp_varangian_guard_pl|Guardas Varangianos
 trp_druznik|Druznik
@@ -537,22 +545,22 @@ trp_tournament_master|Lanista
 trp_tournament_master_pl|Lanistas
 trp_trainer|Doctore
 trp_trainer_pl|Doctores
-trp_constable_hareck|Comissário Hareck
-trp_constable_hareck_pl|Comissário Hareck
-trp_ramun_the_slave_trader|Ramun, o Comerciante de Escravos
-trp_ramun_the_slave_trader_pl|Ramun, o Comerciante de Escravos
+trp_Constable_Hareck|Comissário Hareck
+trp_Constable_Hareck_pl|Comissário Hareck
+trp_Ramun_the_slave_trader|Ramun, o Comerciante de Escravos
+trp_Ramun_the_slave_trader_pl|Ramun, o Comerciante de Escravos
 trp_guide|Jimmy, o Brilhante
 trp_guide_pl|Jimmy, o Brilhante
-trp_xerina|Gladiadora Xerina
-trp_xerina_pl|Xerina
-trp_dranton|Gladiador Dranton
-trp_dranton_pl|Dranton
-trp_kradus|Gladiador Kradus
-trp_kradus_pl|Kradus
+trp_Xerina|Gladiadora Xerina
+trp_Xerina_pl|Xerina
+trp_Dranton|Gladiador Dranton
+trp_Dranton_pl|Dranton
+trp_Kradus|Gladiador Kradus
+trp_Kradus_pl|Kradus
 trp_tutorial_trainer|Mestre do Campo de Treinamento
 trp_tutorial_trainer_pl|Mestre do Campo de Treinamento
-trp_galeas|Galeas, o Escravagista
-trp_galeas_pl|Galeas
+trp_Galeas|Galeas, o Escravagista
+trp_Galeas_pl|Galeas
 trp_farmer_from_bandit_village|Agricultor
 trp_farmer_from_bandit_village_pl|Agricultores
 trp_trainer_1|Treinador
@@ -1215,8 +1223,6 @@ trp_swadian_hero2|Arqueiro Swadiano de Elite
 trp_swadian_hero2_pl|Arqueiros Swadianos de Elite
 trp_swadian_hero3|Besteiro Swadiano de Elite
 trp_swadian_hero3_pl|Besteiros Swadianos de Elite
-trp_swadian_hero4|Cavaleiro Swadiano de Elite
-trp_swadian_hero4_pl|Cavaleiros Swadianos de Elite
 trp_vaegir_hero1|Guarda Vaegir de Elite
 trp_vaegir_hero1_pl|Guardas Vaegires de Elite
 trp_vaegir_hero2|Atirador Vaegir de Elite
@@ -1235,8 +1241,6 @@ trp_rhodok_hero1|Sargento Rhodok de Elite
 trp_rhodok_hero1_pl|Sargentos Rhodoks de Elite
 trp_rhodok_hero2|Arbalestier Rhodok de Elite
 trp_rhodok_hero2_pl|Arbalestiers Rhodok de Elite
-trp_rhodok_hero3|Lider Rhodok de Elite
-trp_rhodok_hero3_pl|Lideres Rhodoks de Elite
 trp_sarranid_hero1|Guarda Sarranide de Elite
 trp_sarranid_hero1_pl|Guardas Sarranides de Elite
 trp_sarranid_hero2|Arqueiro Sarranide de Elite
@@ -1566,26 +1570,26 @@ trp_courtesan_8|Madame Giselle
 trp_courtesan_8_pl|quastuosa
 trp_banditrecruiter_1|Adam, o Leproso
 trp_banditrecruiter_1_pl|Adam, o Leproso
-trp_dagoth|Gladiador Crixus
-trp_dagoth_pl|Crixus
-trp_velios|Gladiador Gannicus
-trp_velios_pl|Gannicus
-trp_michael|Gladiador Priscus
-trp_michael_pl|Priscus
-trp_flamma|Gladiador Flamma
-trp_flamma_pl|Flamma
-trp_theokoles|Gladiador Theokoles
-trp_theokoles_pl|Theokoles
-trp_hermes|Gladiador Hermes
-trp_hermes_pl|Hermes
-trp_gnaeus|Gladiador Gnaeus
-trp_gnaeus_pl|Gnaeus
-trp_carpophorus|Gladiador Carpophorus
-trp_carpophorus_pl|Carpophorus
-trp_tetraites|Gladiador Tetraites
-trp_tetraites_pl|Tetraites
-trp_latherga|Gladiador Latherga
-trp_latherga_pl|Lagertha
+trp_Dagoth|Gladiador Crixus
+trp_Dagoth_pl|Crixus
+trp_Velios|Gladiador Gannicus
+trp_Velios_pl|Gannicus
+trp_Michael|Gladiador Priscus
+trp_Michael_pl|Priscus
+trp_Flamma|Gladiador Flamma
+trp_Flamma_pl|Flamma
+trp_Theokoles|Gladiador Theokoles
+trp_Theokoles_pl|Theokoles
+trp_Hermes|Gladiador Hermes
+trp_Hermes_pl|Hermes
+trp_Gnaeus|Gladiador Gnaeus
+trp_Gnaeus_pl|Gnaeus
+trp_Carpophorus|Gladiador Carpophorus
+trp_Carpophorus_pl|Carpophorus
+trp_Tetraites|Gladiador Tetraites
+trp_Tetraites_pl|Tetraites
+trp_Latherga|Gladiadora Latherga
+trp_Latherga_pl|Lagertha
 trp_local_merchant|Mercador Local
 trp_local_merchant_pl|Mercadores Locais
 trp_tax_rebel|Camponês Rebelde
@@ -1768,6 +1772,7 @@ trp_tpe_center_menus|TPE - Aparência dos Menus de Escolha
 trp_tpe_center_menus_pl|TPE - Tropas Escalonadas
 trp_tpe_options|TPE - Configurações do Jogador
 trp_tpe_options_pl|TPE - Tropas Escalonadas
+trp_tpe_generic_troop_1|TPE Scaled Troop 01
 trp_horse_handler|Treinador de Cavalos
 trp_horse_handler_pl|Treinadores de Cavalos
 trp_dplmc_chamberlain|Tesoureiro Aubrey de Vere
