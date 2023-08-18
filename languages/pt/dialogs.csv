@@ -4237,8 +4237,8 @@ dlga_smith_requested_mastersmith_2:merchant_trade|Vou tentar lembrar disso, obri
 dlga_town_merchant_talk:armorer_requested_repair_1|Gostaria de consertar uma das peças da minha armadura.
 dlga_armorer_requested_repair_1:armorer_requested_repair_2|Qual?
 dlga_armorer_requested_repair_2:merchant_trade|Não importa.
-dlga_town_merchant_talk:armorer_requested_masterarmorer|Existe um mestre armeiro em Calradia? Você conhece uma pessoa que pode melhorar até mesmo armaduras novas.
-dlga_armorer_requested_masterarmorer:armorer_requested_masterarmorer_2|Mestre Tomaso, o melhor de Calradia. Ele se juntou à tripulação Ludus Calradius. Cuidado, porém, a qualidade sempre vem com o preço.
+dlga_town_merchant_talk:armorer_requested_masterarmorer|Existe um mestre ferreiro em Calradia? Você conhece uma pessoa que pode melhorar até mesmo armaduras novas.
+dlga_armorer_requested_masterarmorer:armorer_requested_masterarmorer_2|Mestre Tomaso, o melhor de Calradia. Ele se juntou à guarnição do Ludus Calradius. Cuidado, porém, a qualidade sempre vem com um preço.
 dlga_armorer_requested_masterarmorer_2:merchant_trade|Acho que ouvi isso em algum lugar. Obrigada.
 dlga_town_merchant_talk:smith_requested_repair_1a|Quero refinar uma de minhas armas.
 dlga_smith_requested_repair_1a:smith_requested_repair_2a|Qual deles?
@@ -4261,7 +4261,7 @@ dlga_horse_improve_2:horse_improve_3|Feito!
 dlga_horse_improve_2:merchant_trade|Mudei de ideia.
 dlga_horse_improve_2:merchant_trade.1|Não tenho dinheiro suficiente.
 dlga_horse_improve_3:merchant_trade|Aqui está o seu {s7} de volta. Foi castrado, recém ferrageado e um pouco domesticado. Agora ele é tímido.
-dlga_town_merchant_talk:horse_requested_masterhorse|Existe um mecânico de cavalos com uma seleção maior de raças de cavalos?
+dlga_town_merchant_talk:horse_requested_masterhorse|Existe um mercador de cavalos com uma seleção maior de raças de cavalos?
 dlga_horse_requested_masterhorse:horse_requested_masterhorse_2|Você está procurando por Pedro. Ele detém a maior seleção de raças de cavalos em Calradia e não apenas cavalos, ele tem tudo, até camelos e elefantes. Seus estábulos são enormes e ele permite experimentar e montar todas essas montarias antes mesmo de comprá-las. Os grandes estábulos de Pedro estão em Ludus Calradius.
 dlga_horse_requested_masterhorse_2:merchant_trade|Vou tentar lembrar disso, obrigado.
 dlga_merchant_trade:town_merchant_talk|Algo mais?
